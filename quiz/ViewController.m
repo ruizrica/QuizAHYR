@@ -8,9 +8,10 @@
 
 #import "ViewController.h"
 
-@interface ViewController ()
+@interface ViewController () {
+    int *buttonTag;
+}
 - (IBAction)buttonAction:(UIButton *)sender;
-
 @end
 
 @implementation ViewController
@@ -21,11 +22,21 @@
 }
 
 - (IBAction)buttonAction:(UIButton *)sender {
+    buttonTag = (int)sender.tag;
     
-    if (sender.tag == 1) {
+}
+
+- (void)loadQuestions {
+    
+}
+
+- (void)checkAnswer {
+    
+    if (buttonTag == 1) {
         NSLog(@"Correct!");
     } else {
         NSLog(@"Try Again");
     }
 }
+
 @end
