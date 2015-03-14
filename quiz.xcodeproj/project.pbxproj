@@ -7,6 +7,249 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C6406301AB2851600E36A55 /* menuTemplate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C64062F1AB2851600E36A55 /* menuTemplate.m */; };
+		8C6406321AB28A4800E36A55 /* wordPractice.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406311AB28A4800E36A55 /* wordPractice.txt */; };
+		8C6406E91AB2992B00E36A55 /* Word Practice Smaller_00000.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406351AB2992B00E36A55 /* Word Practice Smaller_00000.png */; };
+		8C6406EA1AB2992B00E36A55 /* Word Practice Smaller_00001.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406361AB2992B00E36A55 /* Word Practice Smaller_00001.png */; };
+		8C6406EB1AB2992B00E36A55 /* Word Practice Smaller_00002.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406371AB2992B00E36A55 /* Word Practice Smaller_00002.png */; };
+		8C6406EC1AB2992B00E36A55 /* Word Practice Smaller_00003.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406381AB2992B00E36A55 /* Word Practice Smaller_00003.png */; };
+		8C6406ED1AB2992B00E36A55 /* Word Practice Smaller_00004.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406391AB2992B00E36A55 /* Word Practice Smaller_00004.png */; };
+		8C6406EE1AB2992B00E36A55 /* Word Practice Smaller_00005.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64063A1AB2992B00E36A55 /* Word Practice Smaller_00005.png */; };
+		8C6406EF1AB2992B00E36A55 /* Word Practice Smaller_00006.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64063B1AB2992B00E36A55 /* Word Practice Smaller_00006.png */; };
+		8C6406F01AB2992B00E36A55 /* Word Practice Smaller_00007.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64063C1AB2992B00E36A55 /* Word Practice Smaller_00007.png */; };
+		8C6406F11AB2992B00E36A55 /* Word Practice Smaller_00008.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64063D1AB2992B00E36A55 /* Word Practice Smaller_00008.png */; };
+		8C6406F21AB2992B00E36A55 /* Word Practice Smaller_00009.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64063E1AB2992B00E36A55 /* Word Practice Smaller_00009.png */; };
+		8C6406F31AB2992B00E36A55 /* Word Practice Smaller_00010.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64063F1AB2992B00E36A55 /* Word Practice Smaller_00010.png */; };
+		8C6406F41AB2992B00E36A55 /* Word Practice Smaller_00011.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406401AB2992B00E36A55 /* Word Practice Smaller_00011.png */; };
+		8C6406F51AB2992B00E36A55 /* Word Practice Smaller_00012.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406411AB2992B00E36A55 /* Word Practice Smaller_00012.png */; };
+		8C6406F61AB2992B00E36A55 /* Word Practice Smaller_00013.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406421AB2992B00E36A55 /* Word Practice Smaller_00013.png */; };
+		8C6406F71AB2992B00E36A55 /* Word Practice Smaller_00014.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406431AB2992B00E36A55 /* Word Practice Smaller_00014.png */; };
+		8C6406F81AB2992B00E36A55 /* Word Practice Smaller_00015.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406441AB2992B00E36A55 /* Word Practice Smaller_00015.png */; };
+		8C6406F91AB2992B00E36A55 /* Word Practice Smaller_00016.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406451AB2992B00E36A55 /* Word Practice Smaller_00016.png */; };
+		8C6406FA1AB2992B00E36A55 /* Word Practice Smaller_00017.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406461AB2992B00E36A55 /* Word Practice Smaller_00017.png */; };
+		8C6406FB1AB2992B00E36A55 /* Word Practice Smaller_00018.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406471AB2992B00E36A55 /* Word Practice Smaller_00018.png */; };
+		8C6406FC1AB2992B00E36A55 /* Word Practice Smaller_00019.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406481AB2992B00E36A55 /* Word Practice Smaller_00019.png */; };
+		8C6406FD1AB2992B00E36A55 /* Word Practice Smaller_00020.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406491AB2992B00E36A55 /* Word Practice Smaller_00020.png */; };
+		8C6406FE1AB2992B00E36A55 /* Word Practice Smaller_00021.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64064A1AB2992B00E36A55 /* Word Practice Smaller_00021.png */; };
+		8C6406FF1AB2992B00E36A55 /* Word Practice Smaller_00022.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64064B1AB2992B00E36A55 /* Word Practice Smaller_00022.png */; };
+		8C6407001AB2992B00E36A55 /* Word Practice Smaller_00023.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64064C1AB2992B00E36A55 /* Word Practice Smaller_00023.png */; };
+		8C6407011AB2992B00E36A55 /* Word Practice Smaller_00024.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64064D1AB2992B00E36A55 /* Word Practice Smaller_00024.png */; };
+		8C6407021AB2992B00E36A55 /* Word Practice Smaller_00025.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64064E1AB2992B00E36A55 /* Word Practice Smaller_00025.png */; };
+		8C6407031AB2992B00E36A55 /* Word Practice Smaller_00026.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64064F1AB2992B00E36A55 /* Word Practice Smaller_00026.png */; };
+		8C6407041AB2992B00E36A55 /* Word Practice Smaller_00027.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406501AB2992B00E36A55 /* Word Practice Smaller_00027.png */; };
+		8C6407051AB2992B00E36A55 /* Word Practice Smaller_00028.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406511AB2992B00E36A55 /* Word Practice Smaller_00028.png */; };
+		8C6407061AB2992B00E36A55 /* Word Practice Smaller_00029.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406521AB2992B00E36A55 /* Word Practice Smaller_00029.png */; };
+		8C6407071AB2992B00E36A55 /* Word Practice Smaller_00030.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406531AB2992B00E36A55 /* Word Practice Smaller_00030.png */; };
+		8C6407081AB2992B00E36A55 /* Word Practice Smaller_00031.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406541AB2992B00E36A55 /* Word Practice Smaller_00031.png */; };
+		8C6407091AB2992B00E36A55 /* Word Practice Smaller_00032.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406551AB2992B00E36A55 /* Word Practice Smaller_00032.png */; };
+		8C64070A1AB2992B00E36A55 /* Word Practice Smaller_00033.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406561AB2992B00E36A55 /* Word Practice Smaller_00033.png */; };
+		8C64070B1AB2992B00E36A55 /* Word Practice Smaller_00034.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406571AB2992B00E36A55 /* Word Practice Smaller_00034.png */; };
+		8C64070C1AB2992B00E36A55 /* Word Practice Smaller_00035.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406581AB2992B00E36A55 /* Word Practice Smaller_00035.png */; };
+		8C64070D1AB2992B00E36A55 /* Word Practice Smaller_00036.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406591AB2992B00E36A55 /* Word Practice Smaller_00036.png */; };
+		8C64070E1AB2992B00E36A55 /* Word Practice Smaller_00037.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64065A1AB2992B00E36A55 /* Word Practice Smaller_00037.png */; };
+		8C64070F1AB2992B00E36A55 /* Word Practice Smaller_00038.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64065B1AB2992B00E36A55 /* Word Practice Smaller_00038.png */; };
+		8C6407101AB2992B00E36A55 /* Word Practice Smaller_00039.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64065C1AB2992B00E36A55 /* Word Practice Smaller_00039.png */; };
+		8C6407111AB2992B00E36A55 /* Word Practice Smaller_00040.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64065D1AB2992B00E36A55 /* Word Practice Smaller_00040.png */; };
+		8C6407121AB2992B00E36A55 /* Word Practice Smaller_00041.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64065E1AB2992B00E36A55 /* Word Practice Smaller_00041.png */; };
+		8C6407131AB2992B00E36A55 /* Word Practice Smaller_00042.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64065F1AB2992B00E36A55 /* Word Practice Smaller_00042.png */; };
+		8C6407141AB2992B00E36A55 /* Word Practice Smaller_00043.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406601AB2992B00E36A55 /* Word Practice Smaller_00043.png */; };
+		8C6407151AB2992B00E36A55 /* Word Practice Smaller_00044.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406611AB2992B00E36A55 /* Word Practice Smaller_00044.png */; };
+		8C6407161AB2992B00E36A55 /* Word Practice Smaller_00045.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406621AB2992B00E36A55 /* Word Practice Smaller_00045.png */; };
+		8C6407171AB2992B00E36A55 /* Word Practice Smaller_00046.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406631AB2992B00E36A55 /* Word Practice Smaller_00046.png */; };
+		8C6407181AB2992B00E36A55 /* Word Practice Smaller_00047.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406641AB2992B00E36A55 /* Word Practice Smaller_00047.png */; };
+		8C6407191AB2992B00E36A55 /* Word Practice Smaller_00048.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406651AB2992B00E36A55 /* Word Practice Smaller_00048.png */; };
+		8C64071A1AB2992B00E36A55 /* Word Practice Smaller_00049.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406661AB2992B00E36A55 /* Word Practice Smaller_00049.png */; };
+		8C64071B1AB2992B00E36A55 /* Word Practice Smaller_00050.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406671AB2992B00E36A55 /* Word Practice Smaller_00050.png */; };
+		8C64071C1AB2992B00E36A55 /* Word Practice Smaller_00051.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406681AB2992B00E36A55 /* Word Practice Smaller_00051.png */; };
+		8C64071D1AB2992B00E36A55 /* Word Practice Smaller_00052.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406691AB2992B00E36A55 /* Word Practice Smaller_00052.png */; };
+		8C64071E1AB2992B00E36A55 /* Word Practice Smaller_00053.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64066A1AB2992B00E36A55 /* Word Practice Smaller_00053.png */; };
+		8C64071F1AB2992B00E36A55 /* Word Practice Smaller_00054.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64066B1AB2992B00E36A55 /* Word Practice Smaller_00054.png */; };
+		8C6407201AB2992B00E36A55 /* Word Practice Smaller_00055.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64066C1AB2992B00E36A55 /* Word Practice Smaller_00055.png */; };
+		8C6407211AB2992B00E36A55 /* Word Practice Smaller_00056.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64066D1AB2992B00E36A55 /* Word Practice Smaller_00056.png */; };
+		8C6407221AB2992B00E36A55 /* Word Practice Smaller_00057.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64066E1AB2992B00E36A55 /* Word Practice Smaller_00057.png */; };
+		8C6407231AB2992B00E36A55 /* Word Practice Smaller_00058.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64066F1AB2992B00E36A55 /* Word Practice Smaller_00058.png */; };
+		8C6407241AB2992B00E36A55 /* Word Practice Smaller_00059.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406701AB2992B00E36A55 /* Word Practice Smaller_00059.png */; };
+		8C6407251AB2992B00E36A55 /* Word Practice Smaller_00060.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406711AB2992B00E36A55 /* Word Practice Smaller_00060.png */; };
+		8C6407261AB2992B00E36A55 /* Word Practice Smaller_00061.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406721AB2992B00E36A55 /* Word Practice Smaller_00061.png */; };
+		8C6407271AB2992B00E36A55 /* Word Practice Smaller_00062.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406731AB2992B00E36A55 /* Word Practice Smaller_00062.png */; };
+		8C6407281AB2992B00E36A55 /* Word Practice Smaller_00063.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406741AB2992B00E36A55 /* Word Practice Smaller_00063.png */; };
+		8C6407291AB2992B00E36A55 /* Word Practice Smaller_00064.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406751AB2992B00E36A55 /* Word Practice Smaller_00064.png */; };
+		8C64072A1AB2992B00E36A55 /* Word Practice Smaller_00065.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406761AB2992B00E36A55 /* Word Practice Smaller_00065.png */; };
+		8C64072B1AB2992B00E36A55 /* Word Practice Smaller_00066.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406771AB2992B00E36A55 /* Word Practice Smaller_00066.png */; };
+		8C64072C1AB2992B00E36A55 /* Word Practice Smaller_00067.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406781AB2992B00E36A55 /* Word Practice Smaller_00067.png */; };
+		8C64072D1AB2992B00E36A55 /* Word Practice Smaller_00068.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406791AB2992B00E36A55 /* Word Practice Smaller_00068.png */; };
+		8C64072E1AB2992B00E36A55 /* Word Practice Smaller_00069.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64067A1AB2992B00E36A55 /* Word Practice Smaller_00069.png */; };
+		8C64072F1AB2992B00E36A55 /* Word Practice Smaller_00070.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64067B1AB2992B00E36A55 /* Word Practice Smaller_00070.png */; };
+		8C6407301AB2992B00E36A55 /* Word Practice Smaller_00071.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64067C1AB2992B00E36A55 /* Word Practice Smaller_00071.png */; };
+		8C6407311AB2992B00E36A55 /* Word Practice Smaller_00072.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64067D1AB2992B00E36A55 /* Word Practice Smaller_00072.png */; };
+		8C6407321AB2992B00E36A55 /* Word Practice Smaller_00073.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64067E1AB2992B00E36A55 /* Word Practice Smaller_00073.png */; };
+		8C6407331AB2992B00E36A55 /* Word Practice Smaller_00074.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64067F1AB2992B00E36A55 /* Word Practice Smaller_00074.png */; };
+		8C6407341AB2992B00E36A55 /* Word Practice Smaller_00075.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406801AB2992B00E36A55 /* Word Practice Smaller_00075.png */; };
+		8C6407351AB2992B00E36A55 /* Word Practice Smaller_00076.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406811AB2992B00E36A55 /* Word Practice Smaller_00076.png */; };
+		8C6407361AB2992B00E36A55 /* Word Practice Smaller_00077.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406821AB2992B00E36A55 /* Word Practice Smaller_00077.png */; };
+		8C6407371AB2992B00E36A55 /* Word Practice Smaller_00078.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406831AB2992B00E36A55 /* Word Practice Smaller_00078.png */; };
+		8C6407381AB2992B00E36A55 /* Word Practice Smaller_00079.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406841AB2992B00E36A55 /* Word Practice Smaller_00079.png */; };
+		8C6407391AB2992B00E36A55 /* Word Practice Smaller_00080.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406851AB2992B00E36A55 /* Word Practice Smaller_00080.png */; };
+		8C64073A1AB2992B00E36A55 /* Word Practice Smaller_00081.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406861AB2992B00E36A55 /* Word Practice Smaller_00081.png */; };
+		8C64073B1AB2992B00E36A55 /* Word Practice Smaller_00082.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406871AB2992B00E36A55 /* Word Practice Smaller_00082.png */; };
+		8C64073C1AB2992B00E36A55 /* Word Practice Smaller_00083.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406881AB2992B00E36A55 /* Word Practice Smaller_00083.png */; };
+		8C64073D1AB2992B00E36A55 /* Word Practice Smaller_00084.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406891AB2992B00E36A55 /* Word Practice Smaller_00084.png */; };
+		8C64073E1AB2992B00E36A55 /* Word Practice Smaller_00085.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64068A1AB2992B00E36A55 /* Word Practice Smaller_00085.png */; };
+		8C64073F1AB2992B00E36A55 /* Word Practice Smaller_00086.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64068B1AB2992B00E36A55 /* Word Practice Smaller_00086.png */; };
+		8C6407401AB2992B00E36A55 /* Word Practice Smaller_00087.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64068C1AB2992B00E36A55 /* Word Practice Smaller_00087.png */; };
+		8C6407411AB2992B00E36A55 /* Word Practice Smaller_00088.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64068D1AB2992B00E36A55 /* Word Practice Smaller_00088.png */; };
+		8C6407421AB2992B00E36A55 /* Word Practice Smaller_00089.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64068E1AB2992B00E36A55 /* Word Practice Smaller_00089.png */; };
+		8C6407431AB2992B00E36A55 /* Word Practice Smaller_00090.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64068F1AB2992B00E36A55 /* Word Practice Smaller_00090.png */; };
+		8C6407441AB2992B00E36A55 /* Word Practice Smaller_00091.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406901AB2992B00E36A55 /* Word Practice Smaller_00091.png */; };
+		8C6407451AB2992B00E36A55 /* Word Practice Smaller_00092.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406911AB2992B00E36A55 /* Word Practice Smaller_00092.png */; };
+		8C6407461AB2992B00E36A55 /* Word Practice Smaller_00093.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406921AB2992B00E36A55 /* Word Practice Smaller_00093.png */; };
+		8C6407471AB2992B00E36A55 /* Word Practice Smaller_00094.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406931AB2992B00E36A55 /* Word Practice Smaller_00094.png */; };
+		8C6407481AB2992B00E36A55 /* Word Practice Smaller_00095.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406941AB2992B00E36A55 /* Word Practice Smaller_00095.png */; };
+		8C6407491AB2992B00E36A55 /* Word Practice Smaller_00096.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406951AB2992B00E36A55 /* Word Practice Smaller_00096.png */; };
+		8C64074A1AB2992B00E36A55 /* Word Practice Smaller_00097.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406961AB2992B00E36A55 /* Word Practice Smaller_00097.png */; };
+		8C64074B1AB2992B00E36A55 /* Word Practice Smaller_00098.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406971AB2992B00E36A55 /* Word Practice Smaller_00098.png */; };
+		8C64074C1AB2992B00E36A55 /* Word Practice Smaller_00099.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406981AB2992B00E36A55 /* Word Practice Smaller_00099.png */; };
+		8C64074D1AB2992B00E36A55 /* Word Practice Smaller_00100.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406991AB2992B00E36A55 /* Word Practice Smaller_00100.png */; };
+		8C64074E1AB2992B00E36A55 /* Word Practice Smaller_00101.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64069A1AB2992B00E36A55 /* Word Practice Smaller_00101.png */; };
+		8C64074F1AB2992B00E36A55 /* Word Practice Smaller_00102.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64069B1AB2992B00E36A55 /* Word Practice Smaller_00102.png */; };
+		8C6407501AB2992B00E36A55 /* Word Practice Smaller_00103.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64069C1AB2992B00E36A55 /* Word Practice Smaller_00103.png */; };
+		8C6407511AB2992B00E36A55 /* Word Practice Smaller_00104.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64069D1AB2992B00E36A55 /* Word Practice Smaller_00104.png */; };
+		8C6407521AB2992B00E36A55 /* Word Practice Smaller_00105.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64069E1AB2992B00E36A55 /* Word Practice Smaller_00105.png */; };
+		8C6407531AB2992B00E36A55 /* Word Practice Smaller_00106.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C64069F1AB2992B00E36A55 /* Word Practice Smaller_00106.png */; };
+		8C6407541AB2992B00E36A55 /* Word Practice Smaller_00107.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A01AB2992B00E36A55 /* Word Practice Smaller_00107.png */; };
+		8C6407551AB2992B00E36A55 /* Word Practice Smaller_00108.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A11AB2992B00E36A55 /* Word Practice Smaller_00108.png */; };
+		8C6407561AB2992B00E36A55 /* Word Practice Smaller_00109.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A21AB2992B00E36A55 /* Word Practice Smaller_00109.png */; };
+		8C6407571AB2992B00E36A55 /* Word Practice Smaller_00110.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A31AB2992B00E36A55 /* Word Practice Smaller_00110.png */; };
+		8C6407581AB2992B00E36A55 /* Word Practice Smaller_00111.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A41AB2992B00E36A55 /* Word Practice Smaller_00111.png */; };
+		8C6407591AB2992B00E36A55 /* Word Practice Smaller_00112.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A51AB2992B00E36A55 /* Word Practice Smaller_00112.png */; };
+		8C64075A1AB2992B00E36A55 /* Word Practice Smaller_00113.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A61AB2992B00E36A55 /* Word Practice Smaller_00113.png */; };
+		8C64075B1AB2992B00E36A55 /* Word Practice Smaller_00114.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A71AB2992B00E36A55 /* Word Practice Smaller_00114.png */; };
+		8C64075C1AB2992B00E36A55 /* Word Practice Smaller_00115.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A81AB2992B00E36A55 /* Word Practice Smaller_00115.png */; };
+		8C64075D1AB2992B00E36A55 /* Word Practice Smaller_00116.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406A91AB2992B00E36A55 /* Word Practice Smaller_00116.png */; };
+		8C64075E1AB2992B00E36A55 /* Word Practice Smaller_00117.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406AA1AB2992B00E36A55 /* Word Practice Smaller_00117.png */; };
+		8C64075F1AB2992B00E36A55 /* Word Practice Smaller_00118.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406AB1AB2992B00E36A55 /* Word Practice Smaller_00118.png */; };
+		8C6407601AB2992B00E36A55 /* Word Practice Smaller_00119.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406AC1AB2992B00E36A55 /* Word Practice Smaller_00119.png */; };
+		8C6407611AB2992B00E36A55 /* Word Practice Smaller_00120.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406AD1AB2992B00E36A55 /* Word Practice Smaller_00120.png */; };
+		8C6407621AB2992B00E36A55 /* Word Practice Smaller_00121.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406AE1AB2992B00E36A55 /* Word Practice Smaller_00121.png */; };
+		8C6407631AB2992B00E36A55 /* Word Practice Smaller_00122.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406AF1AB2992B00E36A55 /* Word Practice Smaller_00122.png */; };
+		8C6407641AB2992B00E36A55 /* Word Practice Smaller_00123.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B01AB2992B00E36A55 /* Word Practice Smaller_00123.png */; };
+		8C6407651AB2992B00E36A55 /* Word Practice Smaller_00124.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B11AB2992B00E36A55 /* Word Practice Smaller_00124.png */; };
+		8C6407661AB2992B00E36A55 /* Word Practice Smaller_00125.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B21AB2992B00E36A55 /* Word Practice Smaller_00125.png */; };
+		8C6407671AB2992B00E36A55 /* Word Practice Smaller_00126.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B31AB2992B00E36A55 /* Word Practice Smaller_00126.png */; };
+		8C6407681AB2992B00E36A55 /* Word Practice Smaller_00127.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B41AB2992B00E36A55 /* Word Practice Smaller_00127.png */; };
+		8C6407691AB2992B00E36A55 /* Word Practice Smaller_00128.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B51AB2992B00E36A55 /* Word Practice Smaller_00128.png */; };
+		8C64076A1AB2992B00E36A55 /* Word Practice Smaller_00129.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B61AB2992B00E36A55 /* Word Practice Smaller_00129.png */; };
+		8C64076B1AB2992B00E36A55 /* Word Practice Smaller_00130.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B71AB2992B00E36A55 /* Word Practice Smaller_00130.png */; };
+		8C64076C1AB2992B00E36A55 /* Word Practice Smaller_00131.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B81AB2992B00E36A55 /* Word Practice Smaller_00131.png */; };
+		8C64076D1AB2992B00E36A55 /* Word Practice Smaller_00132.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406B91AB2992B00E36A55 /* Word Practice Smaller_00132.png */; };
+		8C64076E1AB2992B00E36A55 /* Word Practice Smaller_00133.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406BA1AB2992B00E36A55 /* Word Practice Smaller_00133.png */; };
+		8C64076F1AB2992B00E36A55 /* Word Practice Smaller_00134.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406BB1AB2992B00E36A55 /* Word Practice Smaller_00134.png */; };
+		8C6407701AB2992B00E36A55 /* Word Practice Smaller_00135.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406BC1AB2992B00E36A55 /* Word Practice Smaller_00135.png */; };
+		8C6407711AB2992B00E36A55 /* Word Practice Smaller_00136.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406BD1AB2992B00E36A55 /* Word Practice Smaller_00136.png */; };
+		8C6407721AB2992B00E36A55 /* Word Practice Smaller_00137.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406BE1AB2992B00E36A55 /* Word Practice Smaller_00137.png */; };
+		8C6407731AB2992B00E36A55 /* Word Practice Smaller_00138.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406BF1AB2992B00E36A55 /* Word Practice Smaller_00138.png */; };
+		8C6407741AB2992B00E36A55 /* Word Practice Smaller_00139.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C01AB2992B00E36A55 /* Word Practice Smaller_00139.png */; };
+		8C6407751AB2992B00E36A55 /* Word Practice Smaller_00140.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C11AB2992B00E36A55 /* Word Practice Smaller_00140.png */; };
+		8C6407761AB2992B00E36A55 /* Word Practice Smaller_00141.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C21AB2992B00E36A55 /* Word Practice Smaller_00141.png */; };
+		8C6407771AB2992B00E36A55 /* Word Practice Smaller_00142.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C31AB2992B00E36A55 /* Word Practice Smaller_00142.png */; };
+		8C6407781AB2992B00E36A55 /* Word Practice Smaller_00143.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C41AB2992B00E36A55 /* Word Practice Smaller_00143.png */; };
+		8C6407791AB2992B00E36A55 /* Word Practice Smaller_00144.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C51AB2992B00E36A55 /* Word Practice Smaller_00144.png */; };
+		8C64077A1AB2992B00E36A55 /* Word Practice Smaller_00145.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C61AB2992B00E36A55 /* Word Practice Smaller_00145.png */; };
+		8C64077B1AB2992B00E36A55 /* Word Practice Smaller_00146.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C71AB2992B00E36A55 /* Word Practice Smaller_00146.png */; };
+		8C64077C1AB2992B00E36A55 /* Word Practice Smaller_00147.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C81AB2992B00E36A55 /* Word Practice Smaller_00147.png */; };
+		8C64077D1AB2992B00E36A55 /* Word Practice Smaller_00148.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406C91AB2992B00E36A55 /* Word Practice Smaller_00148.png */; };
+		8C64077E1AB2992B00E36A55 /* Word Practice Smaller_00149.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406CA1AB2992B00E36A55 /* Word Practice Smaller_00149.png */; };
+		8C64077F1AB2992B00E36A55 /* Word Practice Smaller_00150.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406CB1AB2992B00E36A55 /* Word Practice Smaller_00150.png */; };
+		8C6407801AB2992B00E36A55 /* Word Practice Smaller_00151.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406CC1AB2992B00E36A55 /* Word Practice Smaller_00151.png */; };
+		8C6407811AB2992B00E36A55 /* Word Practice Smaller_00152.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406CD1AB2992B00E36A55 /* Word Practice Smaller_00152.png */; };
+		8C6407821AB2992B00E36A55 /* Word Practice Smaller_00153.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406CE1AB2992B00E36A55 /* Word Practice Smaller_00153.png */; };
+		8C6407831AB2992B00E36A55 /* Word Practice Smaller_00154.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406CF1AB2992B00E36A55 /* Word Practice Smaller_00154.png */; };
+		8C6407841AB2992B00E36A55 /* Word Practice Smaller_00155.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D01AB2992B00E36A55 /* Word Practice Smaller_00155.png */; };
+		8C6407851AB2992B00E36A55 /* Word Practice Smaller_00156.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D11AB2992B00E36A55 /* Word Practice Smaller_00156.png */; };
+		8C6407861AB2992B00E36A55 /* Word Practice Smaller_00157.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D21AB2992B00E36A55 /* Word Practice Smaller_00157.png */; };
+		8C6407871AB2992B00E36A55 /* Word Practice Smaller_00158.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D31AB2992B00E36A55 /* Word Practice Smaller_00158.png */; };
+		8C6407881AB2992B00E36A55 /* Word Practice Smaller_00159.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D41AB2992B00E36A55 /* Word Practice Smaller_00159.png */; };
+		8C6407891AB2992B00E36A55 /* Word Practice Smaller_00160.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D51AB2992B00E36A55 /* Word Practice Smaller_00160.png */; };
+		8C64078A1AB2992B00E36A55 /* Word Practice Smaller_00161.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D61AB2992B00E36A55 /* Word Practice Smaller_00161.png */; };
+		8C64078B1AB2992B00E36A55 /* Word Practice Smaller_00162.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D71AB2992B00E36A55 /* Word Practice Smaller_00162.png */; };
+		8C64078C1AB2992B00E36A55 /* Word Practice Smaller_00163.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D81AB2992B00E36A55 /* Word Practice Smaller_00163.png */; };
+		8C64078D1AB2992B00E36A55 /* Word Practice Smaller_00164.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406D91AB2992B00E36A55 /* Word Practice Smaller_00164.png */; };
+		8C64078E1AB2992B00E36A55 /* Word Practice Smaller_00165.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406DA1AB2992B00E36A55 /* Word Practice Smaller_00165.png */; };
+		8C64078F1AB2992B00E36A55 /* Word Practice Smaller_00166.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406DB1AB2992B00E36A55 /* Word Practice Smaller_00166.png */; };
+		8C6407901AB2992B00E36A55 /* Word Practice Smaller_00167.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406DC1AB2992B00E36A55 /* Word Practice Smaller_00167.png */; };
+		8C6407911AB2992B00E36A55 /* Word Practice Smaller_00168.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406DD1AB2992B00E36A55 /* Word Practice Smaller_00168.png */; };
+		8C6407921AB2992B00E36A55 /* Word Practice Smaller_00169.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406DE1AB2992B00E36A55 /* Word Practice Smaller_00169.png */; };
+		8C6407931AB2992B00E36A55 /* Word Practice Smaller_00170.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406DF1AB2992B00E36A55 /* Word Practice Smaller_00170.png */; };
+		8C6407941AB2992B00E36A55 /* Word Practice Smaller_00171.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E01AB2992B00E36A55 /* Word Practice Smaller_00171.png */; };
+		8C6407951AB2992B00E36A55 /* Word Practice Smaller_00172.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E11AB2992B00E36A55 /* Word Practice Smaller_00172.png */; };
+		8C6407961AB2992B00E36A55 /* Word Practice Smaller_00173.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E21AB2992B00E36A55 /* Word Practice Smaller_00173.png */; };
+		8C6407971AB2992B00E36A55 /* Word Practice Smaller_00174.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E31AB2992B00E36A55 /* Word Practice Smaller_00174.png */; };
+		8C6407981AB2992B00E36A55 /* Word Practice Smaller_00175.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E41AB2992B00E36A55 /* Word Practice Smaller_00175.png */; };
+		8C6407991AB2992B00E36A55 /* Word Practice Smaller_00176.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E51AB2992B00E36A55 /* Word Practice Smaller_00176.png */; };
+		8C64079A1AB2992B00E36A55 /* Word Practice Smaller_00177.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E61AB2992B00E36A55 /* Word Practice Smaller_00177.png */; };
+		8C64079B1AB2992B00E36A55 /* Word Practice Smaller_00178.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E71AB2992B00E36A55 /* Word Practice Smaller_00178.png */; };
+		8C64079C1AB2992B00E36A55 /* Word Practice Smaller_00179.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6406E81AB2992B00E36A55 /* Word Practice Smaller_00179.png */; };
+		8C64079E1AB29B3F00E36A55 /* andyFlyInR.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8C64079D1AB29B3F00E36A55 /* andyFlyInR.txt */; };
+		8C6407DC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00000.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A01AB29B4B00E36A55 /* Andy Fly-in-Rt_00000.png */; };
+		8C6407DD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00001.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A11AB29B4B00E36A55 /* Andy Fly-in-Rt_00001.png */; };
+		8C6407DE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00002.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A21AB29B4B00E36A55 /* Andy Fly-in-Rt_00002.png */; };
+		8C6407DF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00003.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A31AB29B4B00E36A55 /* Andy Fly-in-Rt_00003.png */; };
+		8C6407E01AB29B4B00E36A55 /* Andy Fly-in-Rt_00004.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A41AB29B4B00E36A55 /* Andy Fly-in-Rt_00004.png */; };
+		8C6407E11AB29B4B00E36A55 /* Andy Fly-in-Rt_00005.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A51AB29B4B00E36A55 /* Andy Fly-in-Rt_00005.png */; };
+		8C6407E21AB29B4B00E36A55 /* Andy Fly-in-Rt_00006.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A61AB29B4B00E36A55 /* Andy Fly-in-Rt_00006.png */; };
+		8C6407E31AB29B4B00E36A55 /* Andy Fly-in-Rt_00007.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A71AB29B4B00E36A55 /* Andy Fly-in-Rt_00007.png */; };
+		8C6407E41AB29B4B00E36A55 /* Andy Fly-in-Rt_00008.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A81AB29B4B00E36A55 /* Andy Fly-in-Rt_00008.png */; };
+		8C6407E51AB29B4B00E36A55 /* Andy Fly-in-Rt_00009.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407A91AB29B4B00E36A55 /* Andy Fly-in-Rt_00009.png */; };
+		8C6407E61AB29B4B00E36A55 /* Andy Fly-in-Rt_00010.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407AA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00010.png */; };
+		8C6407E71AB29B4B00E36A55 /* Andy Fly-in-Rt_00011.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407AB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00011.png */; };
+		8C6407E81AB29B4B00E36A55 /* Andy Fly-in-Rt_00012.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407AC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00012.png */; };
+		8C6407E91AB29B4B00E36A55 /* Andy Fly-in-Rt_00013.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407AD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00013.png */; };
+		8C6407EA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00014.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407AE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00014.png */; };
+		8C6407EB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00015.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407AF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00015.png */; };
+		8C6407EC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00016.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B01AB29B4B00E36A55 /* Andy Fly-in-Rt_00016.png */; };
+		8C6407ED1AB29B4B00E36A55 /* Andy Fly-in-Rt_00017.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B11AB29B4B00E36A55 /* Andy Fly-in-Rt_00017.png */; };
+		8C6407EE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00018.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B21AB29B4B00E36A55 /* Andy Fly-in-Rt_00018.png */; };
+		8C6407EF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00019.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B31AB29B4B00E36A55 /* Andy Fly-in-Rt_00019.png */; };
+		8C6407F01AB29B4B00E36A55 /* Andy Fly-in-Rt_00020.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B41AB29B4B00E36A55 /* Andy Fly-in-Rt_00020.png */; };
+		8C6407F11AB29B4B00E36A55 /* Andy Fly-in-Rt_00021.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B51AB29B4B00E36A55 /* Andy Fly-in-Rt_00021.png */; };
+		8C6407F21AB29B4B00E36A55 /* Andy Fly-in-Rt_00022.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B61AB29B4B00E36A55 /* Andy Fly-in-Rt_00022.png */; };
+		8C6407F31AB29B4B00E36A55 /* Andy Fly-in-Rt_00023.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B71AB29B4B00E36A55 /* Andy Fly-in-Rt_00023.png */; };
+		8C6407F41AB29B4B00E36A55 /* Andy Fly-in-Rt_00024.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B81AB29B4B00E36A55 /* Andy Fly-in-Rt_00024.png */; };
+		8C6407F51AB29B4B00E36A55 /* Andy Fly-in-Rt_00025.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407B91AB29B4B00E36A55 /* Andy Fly-in-Rt_00025.png */; };
+		8C6407F61AB29B4B00E36A55 /* Andy Fly-in-Rt_00026.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407BA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00026.png */; };
+		8C6407F71AB29B4B00E36A55 /* Andy Fly-in-Rt_00027.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407BB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00027.png */; };
+		8C6407F81AB29B4B00E36A55 /* Andy Fly-in-Rt_00028.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407BC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00028.png */; };
+		8C6407F91AB29B4B00E36A55 /* Andy Fly-in-Rt_00029.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407BD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00029.png */; };
+		8C6407FA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00030.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407BE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00030.png */; };
+		8C6407FB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00031.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407BF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00031.png */; };
+		8C6407FC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00032.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C01AB29B4B00E36A55 /* Andy Fly-in-Rt_00032.png */; };
+		8C6407FD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00033.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C11AB29B4B00E36A55 /* Andy Fly-in-Rt_00033.png */; };
+		8C6407FE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00034.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C21AB29B4B00E36A55 /* Andy Fly-in-Rt_00034.png */; };
+		8C6407FF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00035.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C31AB29B4B00E36A55 /* Andy Fly-in-Rt_00035.png */; };
+		8C6408001AB29B4B00E36A55 /* Andy Fly-in-Rt_00036.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C41AB29B4B00E36A55 /* Andy Fly-in-Rt_00036.png */; };
+		8C6408011AB29B4B00E36A55 /* Andy Fly-in-Rt_00037.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C51AB29B4B00E36A55 /* Andy Fly-in-Rt_00037.png */; };
+		8C6408021AB29B4B00E36A55 /* Andy Fly-in-Rt_00038.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C61AB29B4B00E36A55 /* Andy Fly-in-Rt_00038.png */; };
+		8C6408031AB29B4B00E36A55 /* Andy Fly-in-Rt_00039.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C71AB29B4B00E36A55 /* Andy Fly-in-Rt_00039.png */; };
+		8C6408041AB29B4B00E36A55 /* Andy Fly-in-Rt_00040.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C81AB29B4B00E36A55 /* Andy Fly-in-Rt_00040.png */; };
+		8C6408051AB29B4B00E36A55 /* Andy Fly-in-Rt_00041.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407C91AB29B4B00E36A55 /* Andy Fly-in-Rt_00041.png */; };
+		8C6408061AB29B4B00E36A55 /* Andy Fly-in-Rt_00042.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407CA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00042.png */; };
+		8C6408071AB29B4B00E36A55 /* Andy Fly-in-Rt_00043.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407CB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00043.png */; };
+		8C6408081AB29B4B00E36A55 /* Andy Fly-in-Rt_00044.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407CC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00044.png */; };
+		8C6408091AB29B4B00E36A55 /* Andy Fly-in-Rt_00045.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407CD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00045.png */; };
+		8C64080A1AB29B4B00E36A55 /* Andy Fly-in-Rt_00046.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407CE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00046.png */; };
+		8C64080B1AB29B4B00E36A55 /* Andy Fly-in-Rt_00047.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407CF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00047.png */; };
+		8C64080C1AB29B4B00E36A55 /* Andy Fly-in-Rt_00048.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D01AB29B4B00E36A55 /* Andy Fly-in-Rt_00048.png */; };
+		8C64080D1AB29B4B00E36A55 /* Andy Fly-in-Rt_00049.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D11AB29B4B00E36A55 /* Andy Fly-in-Rt_00049.png */; };
+		8C64080E1AB29B4B00E36A55 /* Andy Fly-in-Rt_00050.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D21AB29B4B00E36A55 /* Andy Fly-in-Rt_00050.png */; };
+		8C64080F1AB29B4B00E36A55 /* Andy Fly-in-Rt_00051.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D31AB29B4B00E36A55 /* Andy Fly-in-Rt_00051.png */; };
+		8C6408101AB29B4B00E36A55 /* Andy Fly-in-Rt_00052.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D41AB29B4B00E36A55 /* Andy Fly-in-Rt_00052.png */; };
+		8C6408111AB29B4B00E36A55 /* Andy Fly-in-Rt_00053.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D51AB29B4B00E36A55 /* Andy Fly-in-Rt_00053.png */; };
+		8C6408121AB29B4B00E36A55 /* Andy Fly-in-Rt_00054.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D61AB29B4B00E36A55 /* Andy Fly-in-Rt_00054.png */; };
+		8C6408131AB29B4B00E36A55 /* Andy Fly-in-Rt_00055.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D71AB29B4B00E36A55 /* Andy Fly-in-Rt_00055.png */; };
+		8C6408141AB29B4B00E36A55 /* Andy Fly-in-Rt_00056.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D81AB29B4B00E36A55 /* Andy Fly-in-Rt_00056.png */; };
+		8C6408151AB29B4B00E36A55 /* Andy Fly-in-Rt_00057.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407D91AB29B4B00E36A55 /* Andy Fly-in-Rt_00057.png */; };
+		8C6408161AB29B4B00E36A55 /* Andy Fly-in-Rt_00058.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407DA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00058.png */; };
+		8C6408171AB29B4B00E36A55 /* Andy Fly-in-Rt_00059.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C6407DB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00059.png */; };
 		8CA674F31AAF60E300AF0158 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CA674F21AAF60E300AF0158 /* main.m */; };
 		8CA674F61AAF60E300AF0158 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CA674F51AAF60E300AF0158 /* AppDelegate.m */; };
 		8CA674F91AAF60E300AF0158 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CA674F81AAF60E300AF0158 /* ViewController.m */; };
@@ -14,6 +257,40 @@
 		8CA674FE1AAF60E300AF0158 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CA674FD1AAF60E300AF0158 /* Images.xcassets */; };
 		8CA675011AAF60E300AF0158 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8CA674FF1AAF60E300AF0158 /* LaunchScreen.xib */; };
 		8CA6750D1AAF60E300AF0158 /* quizTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CA6750C1AAF60E300AF0158 /* quizTests.m */; };
+		8CC5D6871AB216D800726302 /* readingPractice.txt in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6861AB216D800726302 /* readingPractice.txt */; };
+		8CC5D6A91AB216EA00726302 /* Reading Practice 250x250_00000.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6891AB216EA00726302 /* Reading Practice 250x250_00000.png */; };
+		8CC5D6AA1AB216EA00726302 /* Reading Practice 250x250_00001.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D68A1AB216EA00726302 /* Reading Practice 250x250_00001.png */; };
+		8CC5D6AB1AB216EA00726302 /* Reading Practice 250x250_00002.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D68B1AB216EA00726302 /* Reading Practice 250x250_00002.png */; };
+		8CC5D6AC1AB216EA00726302 /* Reading Practice 250x250_00003.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D68C1AB216EA00726302 /* Reading Practice 250x250_00003.png */; };
+		8CC5D6AD1AB216EA00726302 /* Reading Practice 250x250_00004.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D68D1AB216EA00726302 /* Reading Practice 250x250_00004.png */; };
+		8CC5D6AE1AB216EA00726302 /* Reading Practice 250x250_00005.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D68E1AB216EA00726302 /* Reading Practice 250x250_00005.png */; };
+		8CC5D6AF1AB216EA00726302 /* Reading Practice 250x250_00006.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D68F1AB216EA00726302 /* Reading Practice 250x250_00006.png */; };
+		8CC5D6B01AB216EA00726302 /* Reading Practice 250x250_00007.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6901AB216EA00726302 /* Reading Practice 250x250_00007.png */; };
+		8CC5D6B11AB216EA00726302 /* Reading Practice 250x250_00008.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6911AB216EA00726302 /* Reading Practice 250x250_00008.png */; };
+		8CC5D6B21AB216EA00726302 /* Reading Practice 250x250_00009.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6921AB216EA00726302 /* Reading Practice 250x250_00009.png */; };
+		8CC5D6B31AB216EA00726302 /* Reading Practice 250x250_00010.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6931AB216EA00726302 /* Reading Practice 250x250_00010.png */; };
+		8CC5D6B41AB216EA00726302 /* Reading Practice 250x250_00011.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6941AB216EA00726302 /* Reading Practice 250x250_00011.png */; };
+		8CC5D6B51AB216EA00726302 /* Reading Practice 250x250_00012.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6951AB216EA00726302 /* Reading Practice 250x250_00012.png */; };
+		8CC5D6B61AB216EA00726302 /* Reading Practice 250x250_00013.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6961AB216EA00726302 /* Reading Practice 250x250_00013.png */; };
+		8CC5D6B71AB216EA00726302 /* Reading Practice 250x250_00014.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6971AB216EA00726302 /* Reading Practice 250x250_00014.png */; };
+		8CC5D6B81AB216EA00726302 /* Reading Practice 250x250_00015.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6981AB216EA00726302 /* Reading Practice 250x250_00015.png */; };
+		8CC5D6B91AB216EA00726302 /* Reading Practice 250x250_00016.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6991AB216EA00726302 /* Reading Practice 250x250_00016.png */; };
+		8CC5D6BA1AB216EA00726302 /* Reading Practice 250x250_00017.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D69A1AB216EA00726302 /* Reading Practice 250x250_00017.png */; };
+		8CC5D6BB1AB216EA00726302 /* Reading Practice 250x250_00018.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D69B1AB216EA00726302 /* Reading Practice 250x250_00018.png */; };
+		8CC5D6BC1AB216EA00726302 /* Reading Practice 250x250_00019.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D69C1AB216EA00726302 /* Reading Practice 250x250_00019.png */; };
+		8CC5D6BD1AB216EA00726302 /* Reading Practice 250x250_00020.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D69D1AB216EA00726302 /* Reading Practice 250x250_00020.png */; };
+		8CC5D6BE1AB216EA00726302 /* Reading Practice 250x250_00021.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D69E1AB216EA00726302 /* Reading Practice 250x250_00021.png */; };
+		8CC5D6BF1AB216EA00726302 /* Reading Practice 250x250_00022.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D69F1AB216EA00726302 /* Reading Practice 250x250_00022.png */; };
+		8CC5D6C01AB216EA00726302 /* Reading Practice 250x250_00023.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A01AB216EA00726302 /* Reading Practice 250x250_00023.png */; };
+		8CC5D6C11AB216EA00726302 /* Reading Practice 250x250_00024.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A11AB216EA00726302 /* Reading Practice 250x250_00024.png */; };
+		8CC5D6C21AB216EA00726302 /* Reading Practice 250x250_00025.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A21AB216EA00726302 /* Reading Practice 250x250_00025.png */; };
+		8CC5D6C31AB216EA00726302 /* Reading Practice 250x250_00026.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A31AB216EA00726302 /* Reading Practice 250x250_00026.png */; };
+		8CC5D6C41AB216EA00726302 /* Reading Practice 250x250_00027.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A41AB216EA00726302 /* Reading Practice 250x250_00027.png */; };
+		8CC5D6C51AB216EA00726302 /* Reading Practice 250x250_00028.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A51AB216EA00726302 /* Reading Practice 250x250_00028.png */; };
+		8CC5D6C61AB216EA00726302 /* Reading Practice 250x250_00029.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A61AB216EA00726302 /* Reading Practice 250x250_00029.png */; };
+		8CC5D6C71AB216EA00726302 /* Reading Practice 250x250_00030.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A71AB216EA00726302 /* Reading Practice 250x250_00030.png */; };
+		8CC5D6C81AB216EA00726302 /* Reading Practice 250x250_00031.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6A81AB216EA00726302 /* Reading Practice 250x250_00031.png */; };
+		8CC5D6CA1AB226C400726302 /* Lesson-1-Menu-Vector-Chalk-tray.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CC5D6C91AB226C400726302 /* Lesson-1-Menu-Vector-Chalk-tray.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +304,250 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8C64062E1AB2851600E36A55 /* menuTemplate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = menuTemplate.h; sourceTree = "<group>"; };
+		8C64062F1AB2851600E36A55 /* menuTemplate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = menuTemplate.m; sourceTree = "<group>"; };
+		8C6406311AB28A4800E36A55 /* wordPractice.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = wordPractice.txt; sourceTree = "<group>"; };
+		8C6406351AB2992B00E36A55 /* Word Practice Smaller_00000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00000.png"; sourceTree = "<group>"; };
+		8C6406361AB2992B00E36A55 /* Word Practice Smaller_00001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00001.png"; sourceTree = "<group>"; };
+		8C6406371AB2992B00E36A55 /* Word Practice Smaller_00002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00002.png"; sourceTree = "<group>"; };
+		8C6406381AB2992B00E36A55 /* Word Practice Smaller_00003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00003.png"; sourceTree = "<group>"; };
+		8C6406391AB2992B00E36A55 /* Word Practice Smaller_00004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00004.png"; sourceTree = "<group>"; };
+		8C64063A1AB2992B00E36A55 /* Word Practice Smaller_00005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00005.png"; sourceTree = "<group>"; };
+		8C64063B1AB2992B00E36A55 /* Word Practice Smaller_00006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00006.png"; sourceTree = "<group>"; };
+		8C64063C1AB2992B00E36A55 /* Word Practice Smaller_00007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00007.png"; sourceTree = "<group>"; };
+		8C64063D1AB2992B00E36A55 /* Word Practice Smaller_00008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00008.png"; sourceTree = "<group>"; };
+		8C64063E1AB2992B00E36A55 /* Word Practice Smaller_00009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00009.png"; sourceTree = "<group>"; };
+		8C64063F1AB2992B00E36A55 /* Word Practice Smaller_00010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00010.png"; sourceTree = "<group>"; };
+		8C6406401AB2992B00E36A55 /* Word Practice Smaller_00011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00011.png"; sourceTree = "<group>"; };
+		8C6406411AB2992B00E36A55 /* Word Practice Smaller_00012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00012.png"; sourceTree = "<group>"; };
+		8C6406421AB2992B00E36A55 /* Word Practice Smaller_00013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00013.png"; sourceTree = "<group>"; };
+		8C6406431AB2992B00E36A55 /* Word Practice Smaller_00014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00014.png"; sourceTree = "<group>"; };
+		8C6406441AB2992B00E36A55 /* Word Practice Smaller_00015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00015.png"; sourceTree = "<group>"; };
+		8C6406451AB2992B00E36A55 /* Word Practice Smaller_00016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00016.png"; sourceTree = "<group>"; };
+		8C6406461AB2992B00E36A55 /* Word Practice Smaller_00017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00017.png"; sourceTree = "<group>"; };
+		8C6406471AB2992B00E36A55 /* Word Practice Smaller_00018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00018.png"; sourceTree = "<group>"; };
+		8C6406481AB2992B00E36A55 /* Word Practice Smaller_00019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00019.png"; sourceTree = "<group>"; };
+		8C6406491AB2992B00E36A55 /* Word Practice Smaller_00020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00020.png"; sourceTree = "<group>"; };
+		8C64064A1AB2992B00E36A55 /* Word Practice Smaller_00021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00021.png"; sourceTree = "<group>"; };
+		8C64064B1AB2992B00E36A55 /* Word Practice Smaller_00022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00022.png"; sourceTree = "<group>"; };
+		8C64064C1AB2992B00E36A55 /* Word Practice Smaller_00023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00023.png"; sourceTree = "<group>"; };
+		8C64064D1AB2992B00E36A55 /* Word Practice Smaller_00024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00024.png"; sourceTree = "<group>"; };
+		8C64064E1AB2992B00E36A55 /* Word Practice Smaller_00025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00025.png"; sourceTree = "<group>"; };
+		8C64064F1AB2992B00E36A55 /* Word Practice Smaller_00026.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00026.png"; sourceTree = "<group>"; };
+		8C6406501AB2992B00E36A55 /* Word Practice Smaller_00027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00027.png"; sourceTree = "<group>"; };
+		8C6406511AB2992B00E36A55 /* Word Practice Smaller_00028.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00028.png"; sourceTree = "<group>"; };
+		8C6406521AB2992B00E36A55 /* Word Practice Smaller_00029.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00029.png"; sourceTree = "<group>"; };
+		8C6406531AB2992B00E36A55 /* Word Practice Smaller_00030.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00030.png"; sourceTree = "<group>"; };
+		8C6406541AB2992B00E36A55 /* Word Practice Smaller_00031.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00031.png"; sourceTree = "<group>"; };
+		8C6406551AB2992B00E36A55 /* Word Practice Smaller_00032.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00032.png"; sourceTree = "<group>"; };
+		8C6406561AB2992B00E36A55 /* Word Practice Smaller_00033.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00033.png"; sourceTree = "<group>"; };
+		8C6406571AB2992B00E36A55 /* Word Practice Smaller_00034.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00034.png"; sourceTree = "<group>"; };
+		8C6406581AB2992B00E36A55 /* Word Practice Smaller_00035.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00035.png"; sourceTree = "<group>"; };
+		8C6406591AB2992B00E36A55 /* Word Practice Smaller_00036.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00036.png"; sourceTree = "<group>"; };
+		8C64065A1AB2992B00E36A55 /* Word Practice Smaller_00037.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00037.png"; sourceTree = "<group>"; };
+		8C64065B1AB2992B00E36A55 /* Word Practice Smaller_00038.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00038.png"; sourceTree = "<group>"; };
+		8C64065C1AB2992B00E36A55 /* Word Practice Smaller_00039.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00039.png"; sourceTree = "<group>"; };
+		8C64065D1AB2992B00E36A55 /* Word Practice Smaller_00040.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00040.png"; sourceTree = "<group>"; };
+		8C64065E1AB2992B00E36A55 /* Word Practice Smaller_00041.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00041.png"; sourceTree = "<group>"; };
+		8C64065F1AB2992B00E36A55 /* Word Practice Smaller_00042.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00042.png"; sourceTree = "<group>"; };
+		8C6406601AB2992B00E36A55 /* Word Practice Smaller_00043.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00043.png"; sourceTree = "<group>"; };
+		8C6406611AB2992B00E36A55 /* Word Practice Smaller_00044.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00044.png"; sourceTree = "<group>"; };
+		8C6406621AB2992B00E36A55 /* Word Practice Smaller_00045.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00045.png"; sourceTree = "<group>"; };
+		8C6406631AB2992B00E36A55 /* Word Practice Smaller_00046.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00046.png"; sourceTree = "<group>"; };
+		8C6406641AB2992B00E36A55 /* Word Practice Smaller_00047.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00047.png"; sourceTree = "<group>"; };
+		8C6406651AB2992B00E36A55 /* Word Practice Smaller_00048.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00048.png"; sourceTree = "<group>"; };
+		8C6406661AB2992B00E36A55 /* Word Practice Smaller_00049.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00049.png"; sourceTree = "<group>"; };
+		8C6406671AB2992B00E36A55 /* Word Practice Smaller_00050.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00050.png"; sourceTree = "<group>"; };
+		8C6406681AB2992B00E36A55 /* Word Practice Smaller_00051.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00051.png"; sourceTree = "<group>"; };
+		8C6406691AB2992B00E36A55 /* Word Practice Smaller_00052.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00052.png"; sourceTree = "<group>"; };
+		8C64066A1AB2992B00E36A55 /* Word Practice Smaller_00053.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00053.png"; sourceTree = "<group>"; };
+		8C64066B1AB2992B00E36A55 /* Word Practice Smaller_00054.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00054.png"; sourceTree = "<group>"; };
+		8C64066C1AB2992B00E36A55 /* Word Practice Smaller_00055.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00055.png"; sourceTree = "<group>"; };
+		8C64066D1AB2992B00E36A55 /* Word Practice Smaller_00056.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00056.png"; sourceTree = "<group>"; };
+		8C64066E1AB2992B00E36A55 /* Word Practice Smaller_00057.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00057.png"; sourceTree = "<group>"; };
+		8C64066F1AB2992B00E36A55 /* Word Practice Smaller_00058.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00058.png"; sourceTree = "<group>"; };
+		8C6406701AB2992B00E36A55 /* Word Practice Smaller_00059.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00059.png"; sourceTree = "<group>"; };
+		8C6406711AB2992B00E36A55 /* Word Practice Smaller_00060.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00060.png"; sourceTree = "<group>"; };
+		8C6406721AB2992B00E36A55 /* Word Practice Smaller_00061.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00061.png"; sourceTree = "<group>"; };
+		8C6406731AB2992B00E36A55 /* Word Practice Smaller_00062.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00062.png"; sourceTree = "<group>"; };
+		8C6406741AB2992B00E36A55 /* Word Practice Smaller_00063.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00063.png"; sourceTree = "<group>"; };
+		8C6406751AB2992B00E36A55 /* Word Practice Smaller_00064.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00064.png"; sourceTree = "<group>"; };
+		8C6406761AB2992B00E36A55 /* Word Practice Smaller_00065.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00065.png"; sourceTree = "<group>"; };
+		8C6406771AB2992B00E36A55 /* Word Practice Smaller_00066.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00066.png"; sourceTree = "<group>"; };
+		8C6406781AB2992B00E36A55 /* Word Practice Smaller_00067.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00067.png"; sourceTree = "<group>"; };
+		8C6406791AB2992B00E36A55 /* Word Practice Smaller_00068.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00068.png"; sourceTree = "<group>"; };
+		8C64067A1AB2992B00E36A55 /* Word Practice Smaller_00069.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00069.png"; sourceTree = "<group>"; };
+		8C64067B1AB2992B00E36A55 /* Word Practice Smaller_00070.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00070.png"; sourceTree = "<group>"; };
+		8C64067C1AB2992B00E36A55 /* Word Practice Smaller_00071.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00071.png"; sourceTree = "<group>"; };
+		8C64067D1AB2992B00E36A55 /* Word Practice Smaller_00072.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00072.png"; sourceTree = "<group>"; };
+		8C64067E1AB2992B00E36A55 /* Word Practice Smaller_00073.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00073.png"; sourceTree = "<group>"; };
+		8C64067F1AB2992B00E36A55 /* Word Practice Smaller_00074.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00074.png"; sourceTree = "<group>"; };
+		8C6406801AB2992B00E36A55 /* Word Practice Smaller_00075.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00075.png"; sourceTree = "<group>"; };
+		8C6406811AB2992B00E36A55 /* Word Practice Smaller_00076.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00076.png"; sourceTree = "<group>"; };
+		8C6406821AB2992B00E36A55 /* Word Practice Smaller_00077.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00077.png"; sourceTree = "<group>"; };
+		8C6406831AB2992B00E36A55 /* Word Practice Smaller_00078.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00078.png"; sourceTree = "<group>"; };
+		8C6406841AB2992B00E36A55 /* Word Practice Smaller_00079.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00079.png"; sourceTree = "<group>"; };
+		8C6406851AB2992B00E36A55 /* Word Practice Smaller_00080.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00080.png"; sourceTree = "<group>"; };
+		8C6406861AB2992B00E36A55 /* Word Practice Smaller_00081.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00081.png"; sourceTree = "<group>"; };
+		8C6406871AB2992B00E36A55 /* Word Practice Smaller_00082.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00082.png"; sourceTree = "<group>"; };
+		8C6406881AB2992B00E36A55 /* Word Practice Smaller_00083.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00083.png"; sourceTree = "<group>"; };
+		8C6406891AB2992B00E36A55 /* Word Practice Smaller_00084.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00084.png"; sourceTree = "<group>"; };
+		8C64068A1AB2992B00E36A55 /* Word Practice Smaller_00085.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00085.png"; sourceTree = "<group>"; };
+		8C64068B1AB2992B00E36A55 /* Word Practice Smaller_00086.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00086.png"; sourceTree = "<group>"; };
+		8C64068C1AB2992B00E36A55 /* Word Practice Smaller_00087.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00087.png"; sourceTree = "<group>"; };
+		8C64068D1AB2992B00E36A55 /* Word Practice Smaller_00088.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00088.png"; sourceTree = "<group>"; };
+		8C64068E1AB2992B00E36A55 /* Word Practice Smaller_00089.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00089.png"; sourceTree = "<group>"; };
+		8C64068F1AB2992B00E36A55 /* Word Practice Smaller_00090.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00090.png"; sourceTree = "<group>"; };
+		8C6406901AB2992B00E36A55 /* Word Practice Smaller_00091.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00091.png"; sourceTree = "<group>"; };
+		8C6406911AB2992B00E36A55 /* Word Practice Smaller_00092.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00092.png"; sourceTree = "<group>"; };
+		8C6406921AB2992B00E36A55 /* Word Practice Smaller_00093.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00093.png"; sourceTree = "<group>"; };
+		8C6406931AB2992B00E36A55 /* Word Practice Smaller_00094.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00094.png"; sourceTree = "<group>"; };
+		8C6406941AB2992B00E36A55 /* Word Practice Smaller_00095.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00095.png"; sourceTree = "<group>"; };
+		8C6406951AB2992B00E36A55 /* Word Practice Smaller_00096.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00096.png"; sourceTree = "<group>"; };
+		8C6406961AB2992B00E36A55 /* Word Practice Smaller_00097.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00097.png"; sourceTree = "<group>"; };
+		8C6406971AB2992B00E36A55 /* Word Practice Smaller_00098.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00098.png"; sourceTree = "<group>"; };
+		8C6406981AB2992B00E36A55 /* Word Practice Smaller_00099.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00099.png"; sourceTree = "<group>"; };
+		8C6406991AB2992B00E36A55 /* Word Practice Smaller_00100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00100.png"; sourceTree = "<group>"; };
+		8C64069A1AB2992B00E36A55 /* Word Practice Smaller_00101.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00101.png"; sourceTree = "<group>"; };
+		8C64069B1AB2992B00E36A55 /* Word Practice Smaller_00102.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00102.png"; sourceTree = "<group>"; };
+		8C64069C1AB2992B00E36A55 /* Word Practice Smaller_00103.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00103.png"; sourceTree = "<group>"; };
+		8C64069D1AB2992B00E36A55 /* Word Practice Smaller_00104.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00104.png"; sourceTree = "<group>"; };
+		8C64069E1AB2992B00E36A55 /* Word Practice Smaller_00105.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00105.png"; sourceTree = "<group>"; };
+		8C64069F1AB2992B00E36A55 /* Word Practice Smaller_00106.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00106.png"; sourceTree = "<group>"; };
+		8C6406A01AB2992B00E36A55 /* Word Practice Smaller_00107.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00107.png"; sourceTree = "<group>"; };
+		8C6406A11AB2992B00E36A55 /* Word Practice Smaller_00108.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00108.png"; sourceTree = "<group>"; };
+		8C6406A21AB2992B00E36A55 /* Word Practice Smaller_00109.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00109.png"; sourceTree = "<group>"; };
+		8C6406A31AB2992B00E36A55 /* Word Practice Smaller_00110.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00110.png"; sourceTree = "<group>"; };
+		8C6406A41AB2992B00E36A55 /* Word Practice Smaller_00111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00111.png"; sourceTree = "<group>"; };
+		8C6406A51AB2992B00E36A55 /* Word Practice Smaller_00112.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00112.png"; sourceTree = "<group>"; };
+		8C6406A61AB2992B00E36A55 /* Word Practice Smaller_00113.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00113.png"; sourceTree = "<group>"; };
+		8C6406A71AB2992B00E36A55 /* Word Practice Smaller_00114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00114.png"; sourceTree = "<group>"; };
+		8C6406A81AB2992B00E36A55 /* Word Practice Smaller_00115.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00115.png"; sourceTree = "<group>"; };
+		8C6406A91AB2992B00E36A55 /* Word Practice Smaller_00116.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00116.png"; sourceTree = "<group>"; };
+		8C6406AA1AB2992B00E36A55 /* Word Practice Smaller_00117.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00117.png"; sourceTree = "<group>"; };
+		8C6406AB1AB2992B00E36A55 /* Word Practice Smaller_00118.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00118.png"; sourceTree = "<group>"; };
+		8C6406AC1AB2992B00E36A55 /* Word Practice Smaller_00119.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00119.png"; sourceTree = "<group>"; };
+		8C6406AD1AB2992B00E36A55 /* Word Practice Smaller_00120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00120.png"; sourceTree = "<group>"; };
+		8C6406AE1AB2992B00E36A55 /* Word Practice Smaller_00121.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00121.png"; sourceTree = "<group>"; };
+		8C6406AF1AB2992B00E36A55 /* Word Practice Smaller_00122.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00122.png"; sourceTree = "<group>"; };
+		8C6406B01AB2992B00E36A55 /* Word Practice Smaller_00123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00123.png"; sourceTree = "<group>"; };
+		8C6406B11AB2992B00E36A55 /* Word Practice Smaller_00124.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00124.png"; sourceTree = "<group>"; };
+		8C6406B21AB2992B00E36A55 /* Word Practice Smaller_00125.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00125.png"; sourceTree = "<group>"; };
+		8C6406B31AB2992B00E36A55 /* Word Practice Smaller_00126.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00126.png"; sourceTree = "<group>"; };
+		8C6406B41AB2992B00E36A55 /* Word Practice Smaller_00127.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00127.png"; sourceTree = "<group>"; };
+		8C6406B51AB2992B00E36A55 /* Word Practice Smaller_00128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00128.png"; sourceTree = "<group>"; };
+		8C6406B61AB2992B00E36A55 /* Word Practice Smaller_00129.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00129.png"; sourceTree = "<group>"; };
+		8C6406B71AB2992B00E36A55 /* Word Practice Smaller_00130.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00130.png"; sourceTree = "<group>"; };
+		8C6406B81AB2992B00E36A55 /* Word Practice Smaller_00131.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00131.png"; sourceTree = "<group>"; };
+		8C6406B91AB2992B00E36A55 /* Word Practice Smaller_00132.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00132.png"; sourceTree = "<group>"; };
+		8C6406BA1AB2992B00E36A55 /* Word Practice Smaller_00133.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00133.png"; sourceTree = "<group>"; };
+		8C6406BB1AB2992B00E36A55 /* Word Practice Smaller_00134.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00134.png"; sourceTree = "<group>"; };
+		8C6406BC1AB2992B00E36A55 /* Word Practice Smaller_00135.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00135.png"; sourceTree = "<group>"; };
+		8C6406BD1AB2992B00E36A55 /* Word Practice Smaller_00136.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00136.png"; sourceTree = "<group>"; };
+		8C6406BE1AB2992B00E36A55 /* Word Practice Smaller_00137.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00137.png"; sourceTree = "<group>"; };
+		8C6406BF1AB2992B00E36A55 /* Word Practice Smaller_00138.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00138.png"; sourceTree = "<group>"; };
+		8C6406C01AB2992B00E36A55 /* Word Practice Smaller_00139.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00139.png"; sourceTree = "<group>"; };
+		8C6406C11AB2992B00E36A55 /* Word Practice Smaller_00140.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00140.png"; sourceTree = "<group>"; };
+		8C6406C21AB2992B00E36A55 /* Word Practice Smaller_00141.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00141.png"; sourceTree = "<group>"; };
+		8C6406C31AB2992B00E36A55 /* Word Practice Smaller_00142.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00142.png"; sourceTree = "<group>"; };
+		8C6406C41AB2992B00E36A55 /* Word Practice Smaller_00143.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00143.png"; sourceTree = "<group>"; };
+		8C6406C51AB2992B00E36A55 /* Word Practice Smaller_00144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00144.png"; sourceTree = "<group>"; };
+		8C6406C61AB2992B00E36A55 /* Word Practice Smaller_00145.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00145.png"; sourceTree = "<group>"; };
+		8C6406C71AB2992B00E36A55 /* Word Practice Smaller_00146.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00146.png"; sourceTree = "<group>"; };
+		8C6406C81AB2992B00E36A55 /* Word Practice Smaller_00147.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00147.png"; sourceTree = "<group>"; };
+		8C6406C91AB2992B00E36A55 /* Word Practice Smaller_00148.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00148.png"; sourceTree = "<group>"; };
+		8C6406CA1AB2992B00E36A55 /* Word Practice Smaller_00149.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00149.png"; sourceTree = "<group>"; };
+		8C6406CB1AB2992B00E36A55 /* Word Practice Smaller_00150.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00150.png"; sourceTree = "<group>"; };
+		8C6406CC1AB2992B00E36A55 /* Word Practice Smaller_00151.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00151.png"; sourceTree = "<group>"; };
+		8C6406CD1AB2992B00E36A55 /* Word Practice Smaller_00152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00152.png"; sourceTree = "<group>"; };
+		8C6406CE1AB2992B00E36A55 /* Word Practice Smaller_00153.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00153.png"; sourceTree = "<group>"; };
+		8C6406CF1AB2992B00E36A55 /* Word Practice Smaller_00154.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00154.png"; sourceTree = "<group>"; };
+		8C6406D01AB2992B00E36A55 /* Word Practice Smaller_00155.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00155.png"; sourceTree = "<group>"; };
+		8C6406D11AB2992B00E36A55 /* Word Practice Smaller_00156.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00156.png"; sourceTree = "<group>"; };
+		8C6406D21AB2992B00E36A55 /* Word Practice Smaller_00157.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00157.png"; sourceTree = "<group>"; };
+		8C6406D31AB2992B00E36A55 /* Word Practice Smaller_00158.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00158.png"; sourceTree = "<group>"; };
+		8C6406D41AB2992B00E36A55 /* Word Practice Smaller_00159.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00159.png"; sourceTree = "<group>"; };
+		8C6406D51AB2992B00E36A55 /* Word Practice Smaller_00160.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00160.png"; sourceTree = "<group>"; };
+		8C6406D61AB2992B00E36A55 /* Word Practice Smaller_00161.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00161.png"; sourceTree = "<group>"; };
+		8C6406D71AB2992B00E36A55 /* Word Practice Smaller_00162.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00162.png"; sourceTree = "<group>"; };
+		8C6406D81AB2992B00E36A55 /* Word Practice Smaller_00163.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00163.png"; sourceTree = "<group>"; };
+		8C6406D91AB2992B00E36A55 /* Word Practice Smaller_00164.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00164.png"; sourceTree = "<group>"; };
+		8C6406DA1AB2992B00E36A55 /* Word Practice Smaller_00165.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00165.png"; sourceTree = "<group>"; };
+		8C6406DB1AB2992B00E36A55 /* Word Practice Smaller_00166.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00166.png"; sourceTree = "<group>"; };
+		8C6406DC1AB2992B00E36A55 /* Word Practice Smaller_00167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00167.png"; sourceTree = "<group>"; };
+		8C6406DD1AB2992B00E36A55 /* Word Practice Smaller_00168.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00168.png"; sourceTree = "<group>"; };
+		8C6406DE1AB2992B00E36A55 /* Word Practice Smaller_00169.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00169.png"; sourceTree = "<group>"; };
+		8C6406DF1AB2992B00E36A55 /* Word Practice Smaller_00170.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00170.png"; sourceTree = "<group>"; };
+		8C6406E01AB2992B00E36A55 /* Word Practice Smaller_00171.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00171.png"; sourceTree = "<group>"; };
+		8C6406E11AB2992B00E36A55 /* Word Practice Smaller_00172.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00172.png"; sourceTree = "<group>"; };
+		8C6406E21AB2992B00E36A55 /* Word Practice Smaller_00173.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00173.png"; sourceTree = "<group>"; };
+		8C6406E31AB2992B00E36A55 /* Word Practice Smaller_00174.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00174.png"; sourceTree = "<group>"; };
+		8C6406E41AB2992B00E36A55 /* Word Practice Smaller_00175.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00175.png"; sourceTree = "<group>"; };
+		8C6406E51AB2992B00E36A55 /* Word Practice Smaller_00176.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00176.png"; sourceTree = "<group>"; };
+		8C6406E61AB2992B00E36A55 /* Word Practice Smaller_00177.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00177.png"; sourceTree = "<group>"; };
+		8C6406E71AB2992B00E36A55 /* Word Practice Smaller_00178.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00178.png"; sourceTree = "<group>"; };
+		8C6406E81AB2992B00E36A55 /* Word Practice Smaller_00179.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Word Practice Smaller_00179.png"; sourceTree = "<group>"; };
+		8C64079D1AB29B3F00E36A55 /* andyFlyInR.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = andyFlyInR.txt; sourceTree = "<group>"; };
+		8C6407A01AB29B4B00E36A55 /* Andy Fly-in-Rt_00000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00000.png"; sourceTree = "<group>"; };
+		8C6407A11AB29B4B00E36A55 /* Andy Fly-in-Rt_00001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00001.png"; sourceTree = "<group>"; };
+		8C6407A21AB29B4B00E36A55 /* Andy Fly-in-Rt_00002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00002.png"; sourceTree = "<group>"; };
+		8C6407A31AB29B4B00E36A55 /* Andy Fly-in-Rt_00003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00003.png"; sourceTree = "<group>"; };
+		8C6407A41AB29B4B00E36A55 /* Andy Fly-in-Rt_00004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00004.png"; sourceTree = "<group>"; };
+		8C6407A51AB29B4B00E36A55 /* Andy Fly-in-Rt_00005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00005.png"; sourceTree = "<group>"; };
+		8C6407A61AB29B4B00E36A55 /* Andy Fly-in-Rt_00006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00006.png"; sourceTree = "<group>"; };
+		8C6407A71AB29B4B00E36A55 /* Andy Fly-in-Rt_00007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00007.png"; sourceTree = "<group>"; };
+		8C6407A81AB29B4B00E36A55 /* Andy Fly-in-Rt_00008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00008.png"; sourceTree = "<group>"; };
+		8C6407A91AB29B4B00E36A55 /* Andy Fly-in-Rt_00009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00009.png"; sourceTree = "<group>"; };
+		8C6407AA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00010.png"; sourceTree = "<group>"; };
+		8C6407AB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00011.png"; sourceTree = "<group>"; };
+		8C6407AC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00012.png"; sourceTree = "<group>"; };
+		8C6407AD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00013.png"; sourceTree = "<group>"; };
+		8C6407AE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00014.png"; sourceTree = "<group>"; };
+		8C6407AF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00015.png"; sourceTree = "<group>"; };
+		8C6407B01AB29B4B00E36A55 /* Andy Fly-in-Rt_00016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00016.png"; sourceTree = "<group>"; };
+		8C6407B11AB29B4B00E36A55 /* Andy Fly-in-Rt_00017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00017.png"; sourceTree = "<group>"; };
+		8C6407B21AB29B4B00E36A55 /* Andy Fly-in-Rt_00018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00018.png"; sourceTree = "<group>"; };
+		8C6407B31AB29B4B00E36A55 /* Andy Fly-in-Rt_00019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00019.png"; sourceTree = "<group>"; };
+		8C6407B41AB29B4B00E36A55 /* Andy Fly-in-Rt_00020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00020.png"; sourceTree = "<group>"; };
+		8C6407B51AB29B4B00E36A55 /* Andy Fly-in-Rt_00021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00021.png"; sourceTree = "<group>"; };
+		8C6407B61AB29B4B00E36A55 /* Andy Fly-in-Rt_00022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00022.png"; sourceTree = "<group>"; };
+		8C6407B71AB29B4B00E36A55 /* Andy Fly-in-Rt_00023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00023.png"; sourceTree = "<group>"; };
+		8C6407B81AB29B4B00E36A55 /* Andy Fly-in-Rt_00024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00024.png"; sourceTree = "<group>"; };
+		8C6407B91AB29B4B00E36A55 /* Andy Fly-in-Rt_00025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00025.png"; sourceTree = "<group>"; };
+		8C6407BA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00026.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00026.png"; sourceTree = "<group>"; };
+		8C6407BB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00027.png"; sourceTree = "<group>"; };
+		8C6407BC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00028.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00028.png"; sourceTree = "<group>"; };
+		8C6407BD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00029.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00029.png"; sourceTree = "<group>"; };
+		8C6407BE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00030.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00030.png"; sourceTree = "<group>"; };
+		8C6407BF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00031.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00031.png"; sourceTree = "<group>"; };
+		8C6407C01AB29B4B00E36A55 /* Andy Fly-in-Rt_00032.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00032.png"; sourceTree = "<group>"; };
+		8C6407C11AB29B4B00E36A55 /* Andy Fly-in-Rt_00033.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00033.png"; sourceTree = "<group>"; };
+		8C6407C21AB29B4B00E36A55 /* Andy Fly-in-Rt_00034.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00034.png"; sourceTree = "<group>"; };
+		8C6407C31AB29B4B00E36A55 /* Andy Fly-in-Rt_00035.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00035.png"; sourceTree = "<group>"; };
+		8C6407C41AB29B4B00E36A55 /* Andy Fly-in-Rt_00036.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00036.png"; sourceTree = "<group>"; };
+		8C6407C51AB29B4B00E36A55 /* Andy Fly-in-Rt_00037.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00037.png"; sourceTree = "<group>"; };
+		8C6407C61AB29B4B00E36A55 /* Andy Fly-in-Rt_00038.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00038.png"; sourceTree = "<group>"; };
+		8C6407C71AB29B4B00E36A55 /* Andy Fly-in-Rt_00039.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00039.png"; sourceTree = "<group>"; };
+		8C6407C81AB29B4B00E36A55 /* Andy Fly-in-Rt_00040.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00040.png"; sourceTree = "<group>"; };
+		8C6407C91AB29B4B00E36A55 /* Andy Fly-in-Rt_00041.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00041.png"; sourceTree = "<group>"; };
+		8C6407CA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00042.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00042.png"; sourceTree = "<group>"; };
+		8C6407CB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00043.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00043.png"; sourceTree = "<group>"; };
+		8C6407CC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00044.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00044.png"; sourceTree = "<group>"; };
+		8C6407CD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00045.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00045.png"; sourceTree = "<group>"; };
+		8C6407CE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00046.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00046.png"; sourceTree = "<group>"; };
+		8C6407CF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00047.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00047.png"; sourceTree = "<group>"; };
+		8C6407D01AB29B4B00E36A55 /* Andy Fly-in-Rt_00048.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00048.png"; sourceTree = "<group>"; };
+		8C6407D11AB29B4B00E36A55 /* Andy Fly-in-Rt_00049.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00049.png"; sourceTree = "<group>"; };
+		8C6407D21AB29B4B00E36A55 /* Andy Fly-in-Rt_00050.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00050.png"; sourceTree = "<group>"; };
+		8C6407D31AB29B4B00E36A55 /* Andy Fly-in-Rt_00051.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00051.png"; sourceTree = "<group>"; };
+		8C6407D41AB29B4B00E36A55 /* Andy Fly-in-Rt_00052.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00052.png"; sourceTree = "<group>"; };
+		8C6407D51AB29B4B00E36A55 /* Andy Fly-in-Rt_00053.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00053.png"; sourceTree = "<group>"; };
+		8C6407D61AB29B4B00E36A55 /* Andy Fly-in-Rt_00054.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00054.png"; sourceTree = "<group>"; };
+		8C6407D71AB29B4B00E36A55 /* Andy Fly-in-Rt_00055.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00055.png"; sourceTree = "<group>"; };
+		8C6407D81AB29B4B00E36A55 /* Andy Fly-in-Rt_00056.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00056.png"; sourceTree = "<group>"; };
+		8C6407D91AB29B4B00E36A55 /* Andy Fly-in-Rt_00057.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00057.png"; sourceTree = "<group>"; };
+		8C6407DA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00058.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00058.png"; sourceTree = "<group>"; };
+		8C6407DB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00059.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Andy Fly-in-Rt_00059.png"; sourceTree = "<group>"; };
 		8CA674ED1AAF60E300AF0158 /* quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CA674F11AAF60E300AF0158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8CA674F21AAF60E300AF0158 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +561,40 @@
 		8CA675061AAF60E300AF0158 /* quizTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = quizTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CA6750B1AAF60E300AF0158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8CA6750C1AAF60E300AF0158 /* quizTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = quizTests.m; sourceTree = "<group>"; };
+		8CC5D6861AB216D800726302 /* readingPractice.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readingPractice.txt; sourceTree = "<group>"; };
+		8CC5D6891AB216EA00726302 /* Reading Practice 250x250_00000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00000.png"; sourceTree = "<group>"; };
+		8CC5D68A1AB216EA00726302 /* Reading Practice 250x250_00001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00001.png"; sourceTree = "<group>"; };
+		8CC5D68B1AB216EA00726302 /* Reading Practice 250x250_00002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00002.png"; sourceTree = "<group>"; };
+		8CC5D68C1AB216EA00726302 /* Reading Practice 250x250_00003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00003.png"; sourceTree = "<group>"; };
+		8CC5D68D1AB216EA00726302 /* Reading Practice 250x250_00004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00004.png"; sourceTree = "<group>"; };
+		8CC5D68E1AB216EA00726302 /* Reading Practice 250x250_00005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00005.png"; sourceTree = "<group>"; };
+		8CC5D68F1AB216EA00726302 /* Reading Practice 250x250_00006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00006.png"; sourceTree = "<group>"; };
+		8CC5D6901AB216EA00726302 /* Reading Practice 250x250_00007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00007.png"; sourceTree = "<group>"; };
+		8CC5D6911AB216EA00726302 /* Reading Practice 250x250_00008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00008.png"; sourceTree = "<group>"; };
+		8CC5D6921AB216EA00726302 /* Reading Practice 250x250_00009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00009.png"; sourceTree = "<group>"; };
+		8CC5D6931AB216EA00726302 /* Reading Practice 250x250_00010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00010.png"; sourceTree = "<group>"; };
+		8CC5D6941AB216EA00726302 /* Reading Practice 250x250_00011.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00011.png"; sourceTree = "<group>"; };
+		8CC5D6951AB216EA00726302 /* Reading Practice 250x250_00012.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00012.png"; sourceTree = "<group>"; };
+		8CC5D6961AB216EA00726302 /* Reading Practice 250x250_00013.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00013.png"; sourceTree = "<group>"; };
+		8CC5D6971AB216EA00726302 /* Reading Practice 250x250_00014.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00014.png"; sourceTree = "<group>"; };
+		8CC5D6981AB216EA00726302 /* Reading Practice 250x250_00015.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00015.png"; sourceTree = "<group>"; };
+		8CC5D6991AB216EA00726302 /* Reading Practice 250x250_00016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00016.png"; sourceTree = "<group>"; };
+		8CC5D69A1AB216EA00726302 /* Reading Practice 250x250_00017.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00017.png"; sourceTree = "<group>"; };
+		8CC5D69B1AB216EA00726302 /* Reading Practice 250x250_00018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00018.png"; sourceTree = "<group>"; };
+		8CC5D69C1AB216EA00726302 /* Reading Practice 250x250_00019.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00019.png"; sourceTree = "<group>"; };
+		8CC5D69D1AB216EA00726302 /* Reading Practice 250x250_00020.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00020.png"; sourceTree = "<group>"; };
+		8CC5D69E1AB216EA00726302 /* Reading Practice 250x250_00021.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00021.png"; sourceTree = "<group>"; };
+		8CC5D69F1AB216EA00726302 /* Reading Practice 250x250_00022.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00022.png"; sourceTree = "<group>"; };
+		8CC5D6A01AB216EA00726302 /* Reading Practice 250x250_00023.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00023.png"; sourceTree = "<group>"; };
+		8CC5D6A11AB216EA00726302 /* Reading Practice 250x250_00024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00024.png"; sourceTree = "<group>"; };
+		8CC5D6A21AB216EA00726302 /* Reading Practice 250x250_00025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00025.png"; sourceTree = "<group>"; };
+		8CC5D6A31AB216EA00726302 /* Reading Practice 250x250_00026.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00026.png"; sourceTree = "<group>"; };
+		8CC5D6A41AB216EA00726302 /* Reading Practice 250x250_00027.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00027.png"; sourceTree = "<group>"; };
+		8CC5D6A51AB216EA00726302 /* Reading Practice 250x250_00028.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00028.png"; sourceTree = "<group>"; };
+		8CC5D6A61AB216EA00726302 /* Reading Practice 250x250_00029.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00029.png"; sourceTree = "<group>"; };
+		8CC5D6A71AB216EA00726302 /* Reading Practice 250x250_00030.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00030.png"; sourceTree = "<group>"; };
+		8CC5D6A81AB216EA00726302 /* Reading Practice 250x250_00031.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Reading Practice 250x250_00031.png"; sourceTree = "<group>"; };
+		8CC5D6C91AB226C400726302 /* Lesson-1-Menu-Vector-Chalk-tray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lesson-1-Menu-Vector-Chalk-tray.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +615,301 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8C6406331AB28A5600E36A55 /* Image Assets */ = {
+			isa = PBXGroup;
+			children = (
+				8C64079F1AB29B4B00E36A55 /* Andy Fly-in Rt */,
+				8C64079D1AB29B3F00E36A55 /* andyFlyInR.txt */,
+				8C6406341AB2992B00E36A55 /* Word Practice Smaller */,
+				8C6406311AB28A4800E36A55 /* wordPractice.txt */,
+				8CC5D6861AB216D800726302 /* readingPractice.txt */,
+				8CC5D6C91AB226C400726302 /* Lesson-1-Menu-Vector-Chalk-tray.png */,
+				8CC5D6881AB216EA00726302 /* Reading Practice 250x250 */,
+			);
+			name = "Image Assets";
+			sourceTree = "<group>";
+		};
+		8C6406341AB2992B00E36A55 /* Word Practice Smaller */ = {
+			isa = PBXGroup;
+			children = (
+				8C6406351AB2992B00E36A55 /* Word Practice Smaller_00000.png */,
+				8C6406361AB2992B00E36A55 /* Word Practice Smaller_00001.png */,
+				8C6406371AB2992B00E36A55 /* Word Practice Smaller_00002.png */,
+				8C6406381AB2992B00E36A55 /* Word Practice Smaller_00003.png */,
+				8C6406391AB2992B00E36A55 /* Word Practice Smaller_00004.png */,
+				8C64063A1AB2992B00E36A55 /* Word Practice Smaller_00005.png */,
+				8C64063B1AB2992B00E36A55 /* Word Practice Smaller_00006.png */,
+				8C64063C1AB2992B00E36A55 /* Word Practice Smaller_00007.png */,
+				8C64063D1AB2992B00E36A55 /* Word Practice Smaller_00008.png */,
+				8C64063E1AB2992B00E36A55 /* Word Practice Smaller_00009.png */,
+				8C64063F1AB2992B00E36A55 /* Word Practice Smaller_00010.png */,
+				8C6406401AB2992B00E36A55 /* Word Practice Smaller_00011.png */,
+				8C6406411AB2992B00E36A55 /* Word Practice Smaller_00012.png */,
+				8C6406421AB2992B00E36A55 /* Word Practice Smaller_00013.png */,
+				8C6406431AB2992B00E36A55 /* Word Practice Smaller_00014.png */,
+				8C6406441AB2992B00E36A55 /* Word Practice Smaller_00015.png */,
+				8C6406451AB2992B00E36A55 /* Word Practice Smaller_00016.png */,
+				8C6406461AB2992B00E36A55 /* Word Practice Smaller_00017.png */,
+				8C6406471AB2992B00E36A55 /* Word Practice Smaller_00018.png */,
+				8C6406481AB2992B00E36A55 /* Word Practice Smaller_00019.png */,
+				8C6406491AB2992B00E36A55 /* Word Practice Smaller_00020.png */,
+				8C64064A1AB2992B00E36A55 /* Word Practice Smaller_00021.png */,
+				8C64064B1AB2992B00E36A55 /* Word Practice Smaller_00022.png */,
+				8C64064C1AB2992B00E36A55 /* Word Practice Smaller_00023.png */,
+				8C64064D1AB2992B00E36A55 /* Word Practice Smaller_00024.png */,
+				8C64064E1AB2992B00E36A55 /* Word Practice Smaller_00025.png */,
+				8C64064F1AB2992B00E36A55 /* Word Practice Smaller_00026.png */,
+				8C6406501AB2992B00E36A55 /* Word Practice Smaller_00027.png */,
+				8C6406511AB2992B00E36A55 /* Word Practice Smaller_00028.png */,
+				8C6406521AB2992B00E36A55 /* Word Practice Smaller_00029.png */,
+				8C6406531AB2992B00E36A55 /* Word Practice Smaller_00030.png */,
+				8C6406541AB2992B00E36A55 /* Word Practice Smaller_00031.png */,
+				8C6406551AB2992B00E36A55 /* Word Practice Smaller_00032.png */,
+				8C6406561AB2992B00E36A55 /* Word Practice Smaller_00033.png */,
+				8C6406571AB2992B00E36A55 /* Word Practice Smaller_00034.png */,
+				8C6406581AB2992B00E36A55 /* Word Practice Smaller_00035.png */,
+				8C6406591AB2992B00E36A55 /* Word Practice Smaller_00036.png */,
+				8C64065A1AB2992B00E36A55 /* Word Practice Smaller_00037.png */,
+				8C64065B1AB2992B00E36A55 /* Word Practice Smaller_00038.png */,
+				8C64065C1AB2992B00E36A55 /* Word Practice Smaller_00039.png */,
+				8C64065D1AB2992B00E36A55 /* Word Practice Smaller_00040.png */,
+				8C64065E1AB2992B00E36A55 /* Word Practice Smaller_00041.png */,
+				8C64065F1AB2992B00E36A55 /* Word Practice Smaller_00042.png */,
+				8C6406601AB2992B00E36A55 /* Word Practice Smaller_00043.png */,
+				8C6406611AB2992B00E36A55 /* Word Practice Smaller_00044.png */,
+				8C6406621AB2992B00E36A55 /* Word Practice Smaller_00045.png */,
+				8C6406631AB2992B00E36A55 /* Word Practice Smaller_00046.png */,
+				8C6406641AB2992B00E36A55 /* Word Practice Smaller_00047.png */,
+				8C6406651AB2992B00E36A55 /* Word Practice Smaller_00048.png */,
+				8C6406661AB2992B00E36A55 /* Word Practice Smaller_00049.png */,
+				8C6406671AB2992B00E36A55 /* Word Practice Smaller_00050.png */,
+				8C6406681AB2992B00E36A55 /* Word Practice Smaller_00051.png */,
+				8C6406691AB2992B00E36A55 /* Word Practice Smaller_00052.png */,
+				8C64066A1AB2992B00E36A55 /* Word Practice Smaller_00053.png */,
+				8C64066B1AB2992B00E36A55 /* Word Practice Smaller_00054.png */,
+				8C64066C1AB2992B00E36A55 /* Word Practice Smaller_00055.png */,
+				8C64066D1AB2992B00E36A55 /* Word Practice Smaller_00056.png */,
+				8C64066E1AB2992B00E36A55 /* Word Practice Smaller_00057.png */,
+				8C64066F1AB2992B00E36A55 /* Word Practice Smaller_00058.png */,
+				8C6406701AB2992B00E36A55 /* Word Practice Smaller_00059.png */,
+				8C6406711AB2992B00E36A55 /* Word Practice Smaller_00060.png */,
+				8C6406721AB2992B00E36A55 /* Word Practice Smaller_00061.png */,
+				8C6406731AB2992B00E36A55 /* Word Practice Smaller_00062.png */,
+				8C6406741AB2992B00E36A55 /* Word Practice Smaller_00063.png */,
+				8C6406751AB2992B00E36A55 /* Word Practice Smaller_00064.png */,
+				8C6406761AB2992B00E36A55 /* Word Practice Smaller_00065.png */,
+				8C6406771AB2992B00E36A55 /* Word Practice Smaller_00066.png */,
+				8C6406781AB2992B00E36A55 /* Word Practice Smaller_00067.png */,
+				8C6406791AB2992B00E36A55 /* Word Practice Smaller_00068.png */,
+				8C64067A1AB2992B00E36A55 /* Word Practice Smaller_00069.png */,
+				8C64067B1AB2992B00E36A55 /* Word Practice Smaller_00070.png */,
+				8C64067C1AB2992B00E36A55 /* Word Practice Smaller_00071.png */,
+				8C64067D1AB2992B00E36A55 /* Word Practice Smaller_00072.png */,
+				8C64067E1AB2992B00E36A55 /* Word Practice Smaller_00073.png */,
+				8C64067F1AB2992B00E36A55 /* Word Practice Smaller_00074.png */,
+				8C6406801AB2992B00E36A55 /* Word Practice Smaller_00075.png */,
+				8C6406811AB2992B00E36A55 /* Word Practice Smaller_00076.png */,
+				8C6406821AB2992B00E36A55 /* Word Practice Smaller_00077.png */,
+				8C6406831AB2992B00E36A55 /* Word Practice Smaller_00078.png */,
+				8C6406841AB2992B00E36A55 /* Word Practice Smaller_00079.png */,
+				8C6406851AB2992B00E36A55 /* Word Practice Smaller_00080.png */,
+				8C6406861AB2992B00E36A55 /* Word Practice Smaller_00081.png */,
+				8C6406871AB2992B00E36A55 /* Word Practice Smaller_00082.png */,
+				8C6406881AB2992B00E36A55 /* Word Practice Smaller_00083.png */,
+				8C6406891AB2992B00E36A55 /* Word Practice Smaller_00084.png */,
+				8C64068A1AB2992B00E36A55 /* Word Practice Smaller_00085.png */,
+				8C64068B1AB2992B00E36A55 /* Word Practice Smaller_00086.png */,
+				8C64068C1AB2992B00E36A55 /* Word Practice Smaller_00087.png */,
+				8C64068D1AB2992B00E36A55 /* Word Practice Smaller_00088.png */,
+				8C64068E1AB2992B00E36A55 /* Word Practice Smaller_00089.png */,
+				8C64068F1AB2992B00E36A55 /* Word Practice Smaller_00090.png */,
+				8C6406901AB2992B00E36A55 /* Word Practice Smaller_00091.png */,
+				8C6406911AB2992B00E36A55 /* Word Practice Smaller_00092.png */,
+				8C6406921AB2992B00E36A55 /* Word Practice Smaller_00093.png */,
+				8C6406931AB2992B00E36A55 /* Word Practice Smaller_00094.png */,
+				8C6406941AB2992B00E36A55 /* Word Practice Smaller_00095.png */,
+				8C6406951AB2992B00E36A55 /* Word Practice Smaller_00096.png */,
+				8C6406961AB2992B00E36A55 /* Word Practice Smaller_00097.png */,
+				8C6406971AB2992B00E36A55 /* Word Practice Smaller_00098.png */,
+				8C6406981AB2992B00E36A55 /* Word Practice Smaller_00099.png */,
+				8C6406991AB2992B00E36A55 /* Word Practice Smaller_00100.png */,
+				8C64069A1AB2992B00E36A55 /* Word Practice Smaller_00101.png */,
+				8C64069B1AB2992B00E36A55 /* Word Practice Smaller_00102.png */,
+				8C64069C1AB2992B00E36A55 /* Word Practice Smaller_00103.png */,
+				8C64069D1AB2992B00E36A55 /* Word Practice Smaller_00104.png */,
+				8C64069E1AB2992B00E36A55 /* Word Practice Smaller_00105.png */,
+				8C64069F1AB2992B00E36A55 /* Word Practice Smaller_00106.png */,
+				8C6406A01AB2992B00E36A55 /* Word Practice Smaller_00107.png */,
+				8C6406A11AB2992B00E36A55 /* Word Practice Smaller_00108.png */,
+				8C6406A21AB2992B00E36A55 /* Word Practice Smaller_00109.png */,
+				8C6406A31AB2992B00E36A55 /* Word Practice Smaller_00110.png */,
+				8C6406A41AB2992B00E36A55 /* Word Practice Smaller_00111.png */,
+				8C6406A51AB2992B00E36A55 /* Word Practice Smaller_00112.png */,
+				8C6406A61AB2992B00E36A55 /* Word Practice Smaller_00113.png */,
+				8C6406A71AB2992B00E36A55 /* Word Practice Smaller_00114.png */,
+				8C6406A81AB2992B00E36A55 /* Word Practice Smaller_00115.png */,
+				8C6406A91AB2992B00E36A55 /* Word Practice Smaller_00116.png */,
+				8C6406AA1AB2992B00E36A55 /* Word Practice Smaller_00117.png */,
+				8C6406AB1AB2992B00E36A55 /* Word Practice Smaller_00118.png */,
+				8C6406AC1AB2992B00E36A55 /* Word Practice Smaller_00119.png */,
+				8C6406AD1AB2992B00E36A55 /* Word Practice Smaller_00120.png */,
+				8C6406AE1AB2992B00E36A55 /* Word Practice Smaller_00121.png */,
+				8C6406AF1AB2992B00E36A55 /* Word Practice Smaller_00122.png */,
+				8C6406B01AB2992B00E36A55 /* Word Practice Smaller_00123.png */,
+				8C6406B11AB2992B00E36A55 /* Word Practice Smaller_00124.png */,
+				8C6406B21AB2992B00E36A55 /* Word Practice Smaller_00125.png */,
+				8C6406B31AB2992B00E36A55 /* Word Practice Smaller_00126.png */,
+				8C6406B41AB2992B00E36A55 /* Word Practice Smaller_00127.png */,
+				8C6406B51AB2992B00E36A55 /* Word Practice Smaller_00128.png */,
+				8C6406B61AB2992B00E36A55 /* Word Practice Smaller_00129.png */,
+				8C6406B71AB2992B00E36A55 /* Word Practice Smaller_00130.png */,
+				8C6406B81AB2992B00E36A55 /* Word Practice Smaller_00131.png */,
+				8C6406B91AB2992B00E36A55 /* Word Practice Smaller_00132.png */,
+				8C6406BA1AB2992B00E36A55 /* Word Practice Smaller_00133.png */,
+				8C6406BB1AB2992B00E36A55 /* Word Practice Smaller_00134.png */,
+				8C6406BC1AB2992B00E36A55 /* Word Practice Smaller_00135.png */,
+				8C6406BD1AB2992B00E36A55 /* Word Practice Smaller_00136.png */,
+				8C6406BE1AB2992B00E36A55 /* Word Practice Smaller_00137.png */,
+				8C6406BF1AB2992B00E36A55 /* Word Practice Smaller_00138.png */,
+				8C6406C01AB2992B00E36A55 /* Word Practice Smaller_00139.png */,
+				8C6406C11AB2992B00E36A55 /* Word Practice Smaller_00140.png */,
+				8C6406C21AB2992B00E36A55 /* Word Practice Smaller_00141.png */,
+				8C6406C31AB2992B00E36A55 /* Word Practice Smaller_00142.png */,
+				8C6406C41AB2992B00E36A55 /* Word Practice Smaller_00143.png */,
+				8C6406C51AB2992B00E36A55 /* Word Practice Smaller_00144.png */,
+				8C6406C61AB2992B00E36A55 /* Word Practice Smaller_00145.png */,
+				8C6406C71AB2992B00E36A55 /* Word Practice Smaller_00146.png */,
+				8C6406C81AB2992B00E36A55 /* Word Practice Smaller_00147.png */,
+				8C6406C91AB2992B00E36A55 /* Word Practice Smaller_00148.png */,
+				8C6406CA1AB2992B00E36A55 /* Word Practice Smaller_00149.png */,
+				8C6406CB1AB2992B00E36A55 /* Word Practice Smaller_00150.png */,
+				8C6406CC1AB2992B00E36A55 /* Word Practice Smaller_00151.png */,
+				8C6406CD1AB2992B00E36A55 /* Word Practice Smaller_00152.png */,
+				8C6406CE1AB2992B00E36A55 /* Word Practice Smaller_00153.png */,
+				8C6406CF1AB2992B00E36A55 /* Word Practice Smaller_00154.png */,
+				8C6406D01AB2992B00E36A55 /* Word Practice Smaller_00155.png */,
+				8C6406D11AB2992B00E36A55 /* Word Practice Smaller_00156.png */,
+				8C6406D21AB2992B00E36A55 /* Word Practice Smaller_00157.png */,
+				8C6406D31AB2992B00E36A55 /* Word Practice Smaller_00158.png */,
+				8C6406D41AB2992B00E36A55 /* Word Practice Smaller_00159.png */,
+				8C6406D51AB2992B00E36A55 /* Word Practice Smaller_00160.png */,
+				8C6406D61AB2992B00E36A55 /* Word Practice Smaller_00161.png */,
+				8C6406D71AB2992B00E36A55 /* Word Practice Smaller_00162.png */,
+				8C6406D81AB2992B00E36A55 /* Word Practice Smaller_00163.png */,
+				8C6406D91AB2992B00E36A55 /* Word Practice Smaller_00164.png */,
+				8C6406DA1AB2992B00E36A55 /* Word Practice Smaller_00165.png */,
+				8C6406DB1AB2992B00E36A55 /* Word Practice Smaller_00166.png */,
+				8C6406DC1AB2992B00E36A55 /* Word Practice Smaller_00167.png */,
+				8C6406DD1AB2992B00E36A55 /* Word Practice Smaller_00168.png */,
+				8C6406DE1AB2992B00E36A55 /* Word Practice Smaller_00169.png */,
+				8C6406DF1AB2992B00E36A55 /* Word Practice Smaller_00170.png */,
+				8C6406E01AB2992B00E36A55 /* Word Practice Smaller_00171.png */,
+				8C6406E11AB2992B00E36A55 /* Word Practice Smaller_00172.png */,
+				8C6406E21AB2992B00E36A55 /* Word Practice Smaller_00173.png */,
+				8C6406E31AB2992B00E36A55 /* Word Practice Smaller_00174.png */,
+				8C6406E41AB2992B00E36A55 /* Word Practice Smaller_00175.png */,
+				8C6406E51AB2992B00E36A55 /* Word Practice Smaller_00176.png */,
+				8C6406E61AB2992B00E36A55 /* Word Practice Smaller_00177.png */,
+				8C6406E71AB2992B00E36A55 /* Word Practice Smaller_00178.png */,
+				8C6406E81AB2992B00E36A55 /* Word Practice Smaller_00179.png */,
+			);
+			path = "Word Practice Smaller";
+			sourceTree = "<group>";
+		};
+		8C64079F1AB29B4B00E36A55 /* Andy Fly-in Rt */ = {
+			isa = PBXGroup;
+			children = (
+				8C6407A01AB29B4B00E36A55 /* Andy Fly-in-Rt_00000.png */,
+				8C6407A11AB29B4B00E36A55 /* Andy Fly-in-Rt_00001.png */,
+				8C6407A21AB29B4B00E36A55 /* Andy Fly-in-Rt_00002.png */,
+				8C6407A31AB29B4B00E36A55 /* Andy Fly-in-Rt_00003.png */,
+				8C6407A41AB29B4B00E36A55 /* Andy Fly-in-Rt_00004.png */,
+				8C6407A51AB29B4B00E36A55 /* Andy Fly-in-Rt_00005.png */,
+				8C6407A61AB29B4B00E36A55 /* Andy Fly-in-Rt_00006.png */,
+				8C6407A71AB29B4B00E36A55 /* Andy Fly-in-Rt_00007.png */,
+				8C6407A81AB29B4B00E36A55 /* Andy Fly-in-Rt_00008.png */,
+				8C6407A91AB29B4B00E36A55 /* Andy Fly-in-Rt_00009.png */,
+				8C6407AA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00010.png */,
+				8C6407AB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00011.png */,
+				8C6407AC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00012.png */,
+				8C6407AD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00013.png */,
+				8C6407AE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00014.png */,
+				8C6407AF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00015.png */,
+				8C6407B01AB29B4B00E36A55 /* Andy Fly-in-Rt_00016.png */,
+				8C6407B11AB29B4B00E36A55 /* Andy Fly-in-Rt_00017.png */,
+				8C6407B21AB29B4B00E36A55 /* Andy Fly-in-Rt_00018.png */,
+				8C6407B31AB29B4B00E36A55 /* Andy Fly-in-Rt_00019.png */,
+				8C6407B41AB29B4B00E36A55 /* Andy Fly-in-Rt_00020.png */,
+				8C6407B51AB29B4B00E36A55 /* Andy Fly-in-Rt_00021.png */,
+				8C6407B61AB29B4B00E36A55 /* Andy Fly-in-Rt_00022.png */,
+				8C6407B71AB29B4B00E36A55 /* Andy Fly-in-Rt_00023.png */,
+				8C6407B81AB29B4B00E36A55 /* Andy Fly-in-Rt_00024.png */,
+				8C6407B91AB29B4B00E36A55 /* Andy Fly-in-Rt_00025.png */,
+				8C6407BA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00026.png */,
+				8C6407BB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00027.png */,
+				8C6407BC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00028.png */,
+				8C6407BD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00029.png */,
+				8C6407BE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00030.png */,
+				8C6407BF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00031.png */,
+				8C6407C01AB29B4B00E36A55 /* Andy Fly-in-Rt_00032.png */,
+				8C6407C11AB29B4B00E36A55 /* Andy Fly-in-Rt_00033.png */,
+				8C6407C21AB29B4B00E36A55 /* Andy Fly-in-Rt_00034.png */,
+				8C6407C31AB29B4B00E36A55 /* Andy Fly-in-Rt_00035.png */,
+				8C6407C41AB29B4B00E36A55 /* Andy Fly-in-Rt_00036.png */,
+				8C6407C51AB29B4B00E36A55 /* Andy Fly-in-Rt_00037.png */,
+				8C6407C61AB29B4B00E36A55 /* Andy Fly-in-Rt_00038.png */,
+				8C6407C71AB29B4B00E36A55 /* Andy Fly-in-Rt_00039.png */,
+				8C6407C81AB29B4B00E36A55 /* Andy Fly-in-Rt_00040.png */,
+				8C6407C91AB29B4B00E36A55 /* Andy Fly-in-Rt_00041.png */,
+				8C6407CA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00042.png */,
+				8C6407CB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00043.png */,
+				8C6407CC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00044.png */,
+				8C6407CD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00045.png */,
+				8C6407CE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00046.png */,
+				8C6407CF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00047.png */,
+				8C6407D01AB29B4B00E36A55 /* Andy Fly-in-Rt_00048.png */,
+				8C6407D11AB29B4B00E36A55 /* Andy Fly-in-Rt_00049.png */,
+				8C6407D21AB29B4B00E36A55 /* Andy Fly-in-Rt_00050.png */,
+				8C6407D31AB29B4B00E36A55 /* Andy Fly-in-Rt_00051.png */,
+				8C6407D41AB29B4B00E36A55 /* Andy Fly-in-Rt_00052.png */,
+				8C6407D51AB29B4B00E36A55 /* Andy Fly-in-Rt_00053.png */,
+				8C6407D61AB29B4B00E36A55 /* Andy Fly-in-Rt_00054.png */,
+				8C6407D71AB29B4B00E36A55 /* Andy Fly-in-Rt_00055.png */,
+				8C6407D81AB29B4B00E36A55 /* Andy Fly-in-Rt_00056.png */,
+				8C6407D91AB29B4B00E36A55 /* Andy Fly-in-Rt_00057.png */,
+				8C6407DA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00058.png */,
+				8C6407DB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00059.png */,
+			);
+			path = "Andy Fly-in Rt";
+			sourceTree = "<group>";
+		};
+		8C6408181AB4BAAF00E36A55 /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				8CA674F41AAF60E300AF0158 /* AppDelegate.h */,
+				8CA674F51AAF60E300AF0158 /* AppDelegate.m */,
+			);
+			name = Delegate;
+			sourceTree = "<group>";
+		};
+		8C6408191AB4BAB500E36A55 /* MainView */ = {
+			isa = PBXGroup;
+			children = (
+				8CA674F71AAF60E300AF0158 /* ViewController.h */,
+				8CA674F81AAF60E300AF0158 /* ViewController.m */,
+			);
+			name = MainView;
+			sourceTree = "<group>";
+		};
+		8C64081A1AB4BAC400E36A55 /* MenuTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				8C64062E1AB2851600E36A55 /* menuTemplate.h */,
+				8C64062F1AB2851600E36A55 /* menuTemplate.m */,
+			);
+			name = MenuTemplate;
+			sourceTree = "<group>";
+		};
 		8CA674E41AAF60E200AF0158 = {
 			isa = PBXGroup;
 			children = (
@@ -81,10 +931,10 @@
 		8CA674EF1AAF60E300AF0158 /* quiz */ = {
 			isa = PBXGroup;
 			children = (
-				8CA674F41AAF60E300AF0158 /* AppDelegate.h */,
-				8CA674F51AAF60E300AF0158 /* AppDelegate.m */,
-				8CA674F71AAF60E300AF0158 /* ViewController.h */,
-				8CA674F81AAF60E300AF0158 /* ViewController.m */,
+				8C6406331AB28A5600E36A55 /* Image Assets */,
+				8C6408181AB4BAAF00E36A55 /* Delegate */,
+				8C6408191AB4BAB500E36A55 /* MainView */,
+				8C64081A1AB4BAC400E36A55 /* MenuTemplate */,
 				8CA674FA1AAF60E300AF0158 /* Main.storyboard */,
 				8CA674FD1AAF60E300AF0158 /* Images.xcassets */,
 				8CA674FF1AAF60E300AF0158 /* LaunchScreen.xib */,
@@ -117,6 +967,45 @@
 				8CA6750B1AAF60E300AF0158 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8CC5D6881AB216EA00726302 /* Reading Practice 250x250 */ = {
+			isa = PBXGroup;
+			children = (
+				8CC5D6891AB216EA00726302 /* Reading Practice 250x250_00000.png */,
+				8CC5D68A1AB216EA00726302 /* Reading Practice 250x250_00001.png */,
+				8CC5D68B1AB216EA00726302 /* Reading Practice 250x250_00002.png */,
+				8CC5D68C1AB216EA00726302 /* Reading Practice 250x250_00003.png */,
+				8CC5D68D1AB216EA00726302 /* Reading Practice 250x250_00004.png */,
+				8CC5D68E1AB216EA00726302 /* Reading Practice 250x250_00005.png */,
+				8CC5D68F1AB216EA00726302 /* Reading Practice 250x250_00006.png */,
+				8CC5D6901AB216EA00726302 /* Reading Practice 250x250_00007.png */,
+				8CC5D6911AB216EA00726302 /* Reading Practice 250x250_00008.png */,
+				8CC5D6921AB216EA00726302 /* Reading Practice 250x250_00009.png */,
+				8CC5D6931AB216EA00726302 /* Reading Practice 250x250_00010.png */,
+				8CC5D6941AB216EA00726302 /* Reading Practice 250x250_00011.png */,
+				8CC5D6951AB216EA00726302 /* Reading Practice 250x250_00012.png */,
+				8CC5D6961AB216EA00726302 /* Reading Practice 250x250_00013.png */,
+				8CC5D6971AB216EA00726302 /* Reading Practice 250x250_00014.png */,
+				8CC5D6981AB216EA00726302 /* Reading Practice 250x250_00015.png */,
+				8CC5D6991AB216EA00726302 /* Reading Practice 250x250_00016.png */,
+				8CC5D69A1AB216EA00726302 /* Reading Practice 250x250_00017.png */,
+				8CC5D69B1AB216EA00726302 /* Reading Practice 250x250_00018.png */,
+				8CC5D69C1AB216EA00726302 /* Reading Practice 250x250_00019.png */,
+				8CC5D69D1AB216EA00726302 /* Reading Practice 250x250_00020.png */,
+				8CC5D69E1AB216EA00726302 /* Reading Practice 250x250_00021.png */,
+				8CC5D69F1AB216EA00726302 /* Reading Practice 250x250_00022.png */,
+				8CC5D6A01AB216EA00726302 /* Reading Practice 250x250_00023.png */,
+				8CC5D6A11AB216EA00726302 /* Reading Practice 250x250_00024.png */,
+				8CC5D6A21AB216EA00726302 /* Reading Practice 250x250_00025.png */,
+				8CC5D6A31AB216EA00726302 /* Reading Practice 250x250_00026.png */,
+				8CC5D6A41AB216EA00726302 /* Reading Practice 250x250_00027.png */,
+				8CC5D6A51AB216EA00726302 /* Reading Practice 250x250_00028.png */,
+				8CC5D6A61AB216EA00726302 /* Reading Practice 250x250_00029.png */,
+				8CC5D6A71AB216EA00726302 /* Reading Practice 250x250_00030.png */,
+				8CC5D6A81AB216EA00726302 /* Reading Practice 250x250_00031.png */,
+			);
+			path = "Reading Practice 250x250";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,8 +1089,284 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CA674FC1AAF60E300AF0158 /* Main.storyboard in Resources */,
+				8C64077F1AB2992B00E36A55 /* Word Practice Smaller_00150.png in Resources */,
+				8C6407601AB2992B00E36A55 /* Word Practice Smaller_00119.png in Resources */,
+				8C6407EB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00015.png in Resources */,
+				8C6407E91AB29B4B00E36A55 /* Andy Fly-in-Rt_00013.png in Resources */,
+				8C6407281AB2992B00E36A55 /* Word Practice Smaller_00063.png in Resources */,
+				8C64080A1AB29B4B00E36A55 /* Andy Fly-in-Rt_00046.png in Resources */,
+				8C6407E21AB29B4B00E36A55 /* Andy Fly-in-Rt_00006.png in Resources */,
+				8C6407441AB2992B00E36A55 /* Word Practice Smaller_00091.png in Resources */,
+				8C6408071AB29B4B00E36A55 /* Andy Fly-in-Rt_00043.png in Resources */,
+				8C64076A1AB2992B00E36A55 /* Word Practice Smaller_00129.png in Resources */,
+				8C64071B1AB2992B00E36A55 /* Word Practice Smaller_00050.png in Resources */,
+				8CC5D6AD1AB216EA00726302 /* Reading Practice 250x250_00004.png in Resources */,
+				8C6407431AB2992B00E36A55 /* Word Practice Smaller_00090.png in Resources */,
+				8C6408091AB29B4B00E36A55 /* Andy Fly-in-Rt_00045.png in Resources */,
+				8C6407391AB2992B00E36A55 /* Word Practice Smaller_00080.png in Resources */,
+				8C64080C1AB29B4B00E36A55 /* Andy Fly-in-Rt_00048.png in Resources */,
+				8C6407FF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00035.png in Resources */,
+				8C6407081AB2992B00E36A55 /* Word Practice Smaller_00031.png in Resources */,
+				8C6407EA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00014.png in Resources */,
+				8C6407221AB2992B00E36A55 /* Word Practice Smaller_00057.png in Resources */,
+				8C6407371AB2992B00E36A55 /* Word Practice Smaller_00078.png in Resources */,
+				8CC5D6C61AB216EA00726302 /* Reading Practice 250x250_00029.png in Resources */,
+				8C64080B1AB29B4B00E36A55 /* Andy Fly-in-Rt_00047.png in Resources */,
+				8C64070C1AB2992B00E36A55 /* Word Practice Smaller_00035.png in Resources */,
 				8CA675011AAF60E300AF0158 /* LaunchScreen.xib in Resources */,
+				8CC5D6B91AB216EA00726302 /* Reading Practice 250x250_00016.png in Resources */,
+				8C64070A1AB2992B00E36A55 /* Word Practice Smaller_00033.png in Resources */,
+				8C6407F21AB29B4B00E36A55 /* Andy Fly-in-Rt_00022.png in Resources */,
+				8C6407661AB2992B00E36A55 /* Word Practice Smaller_00125.png in Resources */,
+				8C6407801AB2992B00E36A55 /* Word Practice Smaller_00151.png in Resources */,
+				8C6408141AB29B4B00E36A55 /* Andy Fly-in-Rt_00056.png in Resources */,
+				8CC5D6AC1AB216EA00726302 /* Reading Practice 250x250_00003.png in Resources */,
+				8C6407301AB2992B00E36A55 /* Word Practice Smaller_00071.png in Resources */,
+				8C64074F1AB2992B00E36A55 /* Word Practice Smaller_00102.png in Resources */,
+				8C6407981AB2992B00E36A55 /* Word Practice Smaller_00175.png in Resources */,
+				8C6407741AB2992B00E36A55 /* Word Practice Smaller_00139.png in Resources */,
+				8CC5D6C51AB216EA00726302 /* Reading Practice 250x250_00028.png in Resources */,
+				8C64074D1AB2992B00E36A55 /* Word Practice Smaller_00100.png in Resources */,
+				8C6407341AB2992B00E36A55 /* Word Practice Smaller_00075.png in Resources */,
+				8C6407771AB2992B00E36A55 /* Word Practice Smaller_00142.png in Resources */,
+				8C6407F61AB29B4B00E36A55 /* Andy Fly-in-Rt_00026.png in Resources */,
+				8C64077C1AB2992B00E36A55 /* Word Practice Smaller_00147.png in Resources */,
+				8C6407401AB2992B00E36A55 /* Word Practice Smaller_00087.png in Resources */,
+				8C6407EC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00016.png in Resources */,
+				8CC5D6C81AB216EA00726302 /* Reading Practice 250x250_00031.png in Resources */,
+				8C6407651AB2992B00E36A55 /* Word Practice Smaller_00124.png in Resources */,
+				8C6407451AB2992B00E36A55 /* Word Practice Smaller_00092.png in Resources */,
+				8C64080D1AB29B4B00E36A55 /* Andy Fly-in-Rt_00049.png in Resources */,
+				8C6408031AB29B4B00E36A55 /* Andy Fly-in-Rt_00039.png in Resources */,
+				8C64080F1AB29B4B00E36A55 /* Andy Fly-in-Rt_00051.png in Resources */,
+				8C6407091AB2992B00E36A55 /* Word Practice Smaller_00032.png in Resources */,
+				8C6407471AB2992B00E36A55 /* Word Practice Smaller_00094.png in Resources */,
+				8C6407F41AB29B4B00E36A55 /* Andy Fly-in-Rt_00024.png in Resources */,
+				8C6407F51AB29B4B00E36A55 /* Andy Fly-in-Rt_00025.png in Resources */,
+				8C6407561AB2992B00E36A55 /* Word Practice Smaller_00109.png in Resources */,
+				8C6407241AB2992B00E36A55 /* Word Practice Smaller_00059.png in Resources */,
+				8C6407461AB2992B00E36A55 /* Word Practice Smaller_00093.png in Resources */,
+				8C6407481AB2992B00E36A55 /* Word Practice Smaller_00095.png in Resources */,
+				8C6407FC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00032.png in Resources */,
+				8C6407101AB2992B00E36A55 /* Word Practice Smaller_00039.png in Resources */,
+				8C6407FE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00034.png in Resources */,
+				8C6407381AB2992B00E36A55 /* Word Practice Smaller_00079.png in Resources */,
+				8CC5D6B21AB216EA00726302 /* Reading Practice 250x250_00009.png in Resources */,
+				8C6407051AB2992B00E36A55 /* Word Practice Smaller_00028.png in Resources */,
+				8C6407611AB2992B00E36A55 /* Word Practice Smaller_00120.png in Resources */,
+				8C6406EB1AB2992B00E36A55 /* Word Practice Smaller_00002.png in Resources */,
+				8C6407EE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00018.png in Resources */,
+				8CC5D6B41AB216EA00726302 /* Reading Practice 250x250_00011.png in Resources */,
+				8C6406ED1AB2992B00E36A55 /* Word Practice Smaller_00004.png in Resources */,
+				8C6408021AB29B4B00E36A55 /* Andy Fly-in-Rt_00038.png in Resources */,
+				8CC5D6BA1AB216EA00726302 /* Reading Practice 250x250_00017.png in Resources */,
+				8C64076E1AB2992B00E36A55 /* Word Practice Smaller_00133.png in Resources */,
+				8C64075B1AB2992B00E36A55 /* Word Practice Smaller_00114.png in Resources */,
+				8C64075C1AB2992B00E36A55 /* Word Practice Smaller_00115.png in Resources */,
+				8C6407F01AB29B4B00E36A55 /* Andy Fly-in-Rt_00020.png in Resources */,
+				8C6406321AB28A4800E36A55 /* wordPractice.txt in Resources */,
+				8C64077B1AB2992B00E36A55 /* Word Practice Smaller_00146.png in Resources */,
+				8CC5D6BE1AB216EA00726302 /* Reading Practice 250x250_00021.png in Resources */,
+				8C6407F81AB29B4B00E36A55 /* Andy Fly-in-Rt_00028.png in Resources */,
+				8C6407161AB2992B00E36A55 /* Word Practice Smaller_00045.png in Resources */,
+				8C6407551AB2992B00E36A55 /* Word Practice Smaller_00108.png in Resources */,
+				8C6407411AB2992B00E36A55 /* Word Practice Smaller_00088.png in Resources */,
+				8C6407721AB2992B00E36A55 /* Word Practice Smaller_00137.png in Resources */,
+				8C64075E1AB2992B00E36A55 /* Word Practice Smaller_00117.png in Resources */,
+				8C6407711AB2992B00E36A55 /* Word Practice Smaller_00136.png in Resources */,
+				8C6407311AB2992B00E36A55 /* Word Practice Smaller_00072.png in Resources */,
+				8C6406FE1AB2992B00E36A55 /* Word Practice Smaller_00021.png in Resources */,
+				8C64072B1AB2992B00E36A55 /* Word Practice Smaller_00066.png in Resources */,
+				8C6407961AB2992B00E36A55 /* Word Practice Smaller_00173.png in Resources */,
+				8C64079C1AB2992B00E36A55 /* Word Practice Smaller_00179.png in Resources */,
+				8CC5D6AE1AB216EA00726302 /* Reading Practice 250x250_00005.png in Resources */,
+				8C64077E1AB2992B00E36A55 /* Word Practice Smaller_00149.png in Resources */,
+				8C6407821AB2992B00E36A55 /* Word Practice Smaller_00153.png in Resources */,
+				8C6407681AB2992B00E36A55 /* Word Practice Smaller_00127.png in Resources */,
+				8C64079E1AB29B3F00E36A55 /* andyFlyInR.txt in Resources */,
+				8CC5D6871AB216D800726302 /* readingPractice.txt in Resources */,
+				8C6406F21AB2992B00E36A55 /* Word Practice Smaller_00009.png in Resources */,
+				8C6407E51AB29B4B00E36A55 /* Andy Fly-in-Rt_00009.png in Resources */,
+				8C6407761AB2992B00E36A55 /* Word Practice Smaller_00141.png in Resources */,
+				8C6406FC1AB2992B00E36A55 /* Word Practice Smaller_00019.png in Resources */,
+				8C6408161AB29B4B00E36A55 /* Andy Fly-in-Rt_00058.png in Resources */,
+				8C6407131AB2992B00E36A55 /* Word Practice Smaller_00042.png in Resources */,
+				8C64076F1AB2992B00E36A55 /* Word Practice Smaller_00134.png in Resources */,
 				8CA674FE1AAF60E300AF0158 /* Images.xcassets in Resources */,
+				8C64075F1AB2992B00E36A55 /* Word Practice Smaller_00118.png in Resources */,
+				8C64080E1AB29B4B00E36A55 /* Andy Fly-in-Rt_00050.png in Resources */,
+				8C64073B1AB2992B00E36A55 /* Word Practice Smaller_00082.png in Resources */,
+				8C6408061AB29B4B00E36A55 /* Andy Fly-in-Rt_00042.png in Resources */,
+				8C6407951AB2992B00E36A55 /* Word Practice Smaller_00172.png in Resources */,
+				8CC5D6B81AB216EA00726302 /* Reading Practice 250x250_00015.png in Resources */,
+				8C6407831AB2992B00E36A55 /* Word Practice Smaller_00154.png in Resources */,
+				8C6406F81AB2992B00E36A55 /* Word Practice Smaller_00015.png in Resources */,
+				8C6408101AB29B4B00E36A55 /* Andy Fly-in-Rt_00052.png in Resources */,
+				8C6407121AB2992B00E36A55 /* Word Practice Smaller_00041.png in Resources */,
+				8CC5D6CA1AB226C400726302 /* Lesson-1-Menu-Vector-Chalk-tray.png in Resources */,
+				8C64070B1AB2992B00E36A55 /* Word Practice Smaller_00034.png in Resources */,
+				8C6407901AB2992B00E36A55 /* Word Practice Smaller_00167.png in Resources */,
+				8C6407931AB2992B00E36A55 /* Word Practice Smaller_00170.png in Resources */,
+				8C6407731AB2992B00E36A55 /* Word Practice Smaller_00138.png in Resources */,
+				8CC5D6B61AB216EA00726302 /* Reading Practice 250x250_00013.png in Resources */,
+				8C6407191AB2992B00E36A55 /* Word Practice Smaller_00048.png in Resources */,
+				8C6407631AB2992B00E36A55 /* Word Practice Smaller_00122.png in Resources */,
+				8C6407701AB2992B00E36A55 /* Word Practice Smaller_00135.png in Resources */,
+				8C6407E31AB29B4B00E36A55 /* Andy Fly-in-Rt_00007.png in Resources */,
+				8C6407921AB2992B00E36A55 /* Word Practice Smaller_00169.png in Resources */,
+				8C6407541AB2992B00E36A55 /* Word Practice Smaller_00107.png in Resources */,
+				8C6407351AB2992B00E36A55 /* Word Practice Smaller_00076.png in Resources */,
+				8C64077A1AB2992B00E36A55 /* Word Practice Smaller_00145.png in Resources */,
+				8C64078D1AB2992B00E36A55 /* Word Practice Smaller_00164.png in Resources */,
+				8C64074B1AB2992B00E36A55 /* Word Practice Smaller_00098.png in Resources */,
+				8C6407251AB2992B00E36A55 /* Word Practice Smaller_00060.png in Resources */,
+				8CC5D6C21AB216EA00726302 /* Reading Practice 250x250_00025.png in Resources */,
+				8C64074C1AB2992B00E36A55 /* Word Practice Smaller_00099.png in Resources */,
+				8C64074E1AB2992B00E36A55 /* Word Practice Smaller_00101.png in Resources */,
+				8C6407DD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00001.png in Resources */,
+				8C6407571AB2992B00E36A55 /* Word Practice Smaller_00110.png in Resources */,
+				8CC5D6B71AB216EA00726302 /* Reading Practice 250x250_00014.png in Resources */,
+				8C6407641AB2992B00E36A55 /* Word Practice Smaller_00123.png in Resources */,
+				8C6407E01AB29B4B00E36A55 /* Andy Fly-in-Rt_00004.png in Resources */,
+				8C6406F61AB2992B00E36A55 /* Word Practice Smaller_00013.png in Resources */,
+				8CC5D6C11AB216EA00726302 /* Reading Practice 250x250_00024.png in Resources */,
+				8C6407041AB2992B00E36A55 /* Word Practice Smaller_00027.png in Resources */,
+				8C6407291AB2992B00E36A55 /* Word Practice Smaller_00064.png in Resources */,
+				8CC5D6AB1AB216EA00726302 /* Reading Practice 250x250_00002.png in Resources */,
+				8CC5D6C01AB216EA00726302 /* Reading Practice 250x250_00023.png in Resources */,
+				8C6407691AB2992B00E36A55 /* Word Practice Smaller_00128.png in Resources */,
+				8C6407011AB2992B00E36A55 /* Word Practice Smaller_00024.png in Resources */,
+				8CC5D6B31AB216EA00726302 /* Reading Practice 250x250_00010.png in Resources */,
+				8C64078E1AB2992B00E36A55 /* Word Practice Smaller_00165.png in Resources */,
+				8C64072A1AB2992B00E36A55 /* Word Practice Smaller_00065.png in Resources */,
+				8C6407FD1AB29B4B00E36A55 /* Andy Fly-in-Rt_00033.png in Resources */,
+				8C6407781AB2992B00E36A55 /* Word Practice Smaller_00143.png in Resources */,
+				8C6407DF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00003.png in Resources */,
+				8C6406EF1AB2992B00E36A55 /* Word Practice Smaller_00006.png in Resources */,
+				8C6407671AB2992B00E36A55 /* Word Practice Smaller_00126.png in Resources */,
+				8C6406EA1AB2992B00E36A55 /* Word Practice Smaller_00001.png in Resources */,
+				8C6407F91AB29B4B00E36A55 /* Andy Fly-in-Rt_00029.png in Resources */,
+				8C64078A1AB2992B00E36A55 /* Word Practice Smaller_00161.png in Resources */,
+				8C6406FD1AB2992B00E36A55 /* Word Practice Smaller_00020.png in Resources */,
+				8C6406FA1AB2992B00E36A55 /* Word Practice Smaller_00017.png in Resources */,
+				8C64072D1AB2992B00E36A55 /* Word Practice Smaller_00068.png in Resources */,
+				8C64071F1AB2992B00E36A55 /* Word Practice Smaller_00054.png in Resources */,
+				8C64078F1AB2992B00E36A55 /* Word Practice Smaller_00166.png in Resources */,
+				8C64073D1AB2992B00E36A55 /* Word Practice Smaller_00084.png in Resources */,
+				8CC5D6BB1AB216EA00726302 /* Reading Practice 250x250_00018.png in Resources */,
+				8C6407621AB2992B00E36A55 /* Word Practice Smaller_00121.png in Resources */,
+				8CC5D6B11AB216EA00726302 /* Reading Practice 250x250_00008.png in Resources */,
+				8C6406F41AB2992B00E36A55 /* Word Practice Smaller_00011.png in Resources */,
+				8C6407421AB2992B00E36A55 /* Word Practice Smaller_00089.png in Resources */,
+				8C6408081AB29B4B00E36A55 /* Andy Fly-in-Rt_00044.png in Resources */,
+				8C6407001AB2992B00E36A55 /* Word Practice Smaller_00023.png in Resources */,
+				8C6407FA1AB29B4B00E36A55 /* Andy Fly-in-Rt_00030.png in Resources */,
+				8C64078B1AB2992B00E36A55 /* Word Practice Smaller_00162.png in Resources */,
+				8C64076D1AB2992B00E36A55 /* Word Practice Smaller_00132.png in Resources */,
+				8C64075D1AB2992B00E36A55 /* Word Practice Smaller_00116.png in Resources */,
+				8C64076B1AB2992B00E36A55 /* Word Practice Smaller_00130.png in Resources */,
+				8CC5D6AA1AB216EA00726302 /* Reading Practice 250x250_00001.png in Resources */,
+				8C6406F51AB2992B00E36A55 /* Word Practice Smaller_00012.png in Resources */,
+				8C6407EF1AB29B4B00E36A55 /* Andy Fly-in-Rt_00019.png in Resources */,
+				8C6407111AB2992B00E36A55 /* Word Practice Smaller_00040.png in Resources */,
+				8C64072C1AB2992B00E36A55 /* Word Practice Smaller_00067.png in Resources */,
+				8C6407201AB2992B00E36A55 /* Word Practice Smaller_00055.png in Resources */,
+				8C64073E1AB2992B00E36A55 /* Word Practice Smaller_00085.png in Resources */,
+				8C6407231AB2992B00E36A55 /* Word Practice Smaller_00058.png in Resources */,
+				8C6407511AB2992B00E36A55 /* Word Practice Smaller_00104.png in Resources */,
+				8C64073C1AB2992B00E36A55 /* Word Practice Smaller_00083.png in Resources */,
+				8C6407DC1AB29B4B00E36A55 /* Andy Fly-in-Rt_00000.png in Resources */,
+				8C64079B1AB2992B00E36A55 /* Word Practice Smaller_00178.png in Resources */,
+				8C6408121AB29B4B00E36A55 /* Andy Fly-in-Rt_00054.png in Resources */,
+				8C6406F31AB2992B00E36A55 /* Word Practice Smaller_00010.png in Resources */,
+				8CC5D6B51AB216EA00726302 /* Reading Practice 250x250_00012.png in Resources */,
+				8C6407071AB2992B00E36A55 /* Word Practice Smaller_00030.png in Resources */,
+				8C6408001AB29B4B00E36A55 /* Andy Fly-in-Rt_00036.png in Resources */,
+				8C6407061AB2992B00E36A55 /* Word Practice Smaller_00029.png in Resources */,
+				8C6407F11AB29B4B00E36A55 /* Andy Fly-in-Rt_00021.png in Resources */,
+				8C6407271AB2992B00E36A55 /* Word Practice Smaller_00062.png in Resources */,
+				8CC5D6C41AB216EA00726302 /* Reading Practice 250x250_00027.png in Resources */,
+				8C6407211AB2992B00E36A55 /* Word Practice Smaller_00056.png in Resources */,
+				8C6406EE1AB2992B00E36A55 /* Word Practice Smaller_00005.png in Resources */,
+				8C6407181AB2992B00E36A55 /* Word Practice Smaller_00047.png in Resources */,
+				8C6407ED1AB29B4B00E36A55 /* Andy Fly-in-Rt_00017.png in Resources */,
+				8C6407151AB2992B00E36A55 /* Word Practice Smaller_00044.png in Resources */,
+				8C6407811AB2992B00E36A55 /* Word Practice Smaller_00152.png in Resources */,
+				8C6406FF1AB2992B00E36A55 /* Word Practice Smaller_00022.png in Resources */,
+				8C6407321AB2992B00E36A55 /* Word Practice Smaller_00073.png in Resources */,
+				8C64079A1AB2992B00E36A55 /* Word Practice Smaller_00177.png in Resources */,
+				8C64070F1AB2992B00E36A55 /* Word Practice Smaller_00038.png in Resources */,
+				8C64073A1AB2992B00E36A55 /* Word Practice Smaller_00081.png in Resources */,
+				8C64072F1AB2992B00E36A55 /* Word Practice Smaller_00070.png in Resources */,
+				8C6407941AB2992B00E36A55 /* Word Practice Smaller_00171.png in Resources */,
+				8C6408171AB29B4B00E36A55 /* Andy Fly-in-Rt_00059.png in Resources */,
+				8C6408111AB29B4B00E36A55 /* Andy Fly-in-Rt_00053.png in Resources */,
+				8C6407F31AB29B4B00E36A55 /* Andy Fly-in-Rt_00023.png in Resources */,
+				8C6408011AB29B4B00E36A55 /* Andy Fly-in-Rt_00037.png in Resources */,
+				8C6406E91AB2992B00E36A55 /* Word Practice Smaller_00000.png in Resources */,
+				8CC5D6AF1AB216EA00726302 /* Reading Practice 250x250_00006.png in Resources */,
+				8CC5D6BC1AB216EA00726302 /* Reading Practice 250x250_00019.png in Resources */,
+				8C6407751AB2992B00E36A55 /* Word Practice Smaller_00140.png in Resources */,
+				8C64075A1AB2992B00E36A55 /* Word Practice Smaller_00113.png in Resources */,
+				8C6407171AB2992B00E36A55 /* Word Practice Smaller_00046.png in Resources */,
+				8C6408131AB29B4B00E36A55 /* Andy Fly-in-Rt_00055.png in Resources */,
+				8C6407531AB2992B00E36A55 /* Word Practice Smaller_00106.png in Resources */,
+				8CC5D6C71AB216EA00726302 /* Reading Practice 250x250_00030.png in Resources */,
+				8C6407491AB2992B00E36A55 /* Word Practice Smaller_00096.png in Resources */,
+				8C6408041AB29B4B00E36A55 /* Andy Fly-in-Rt_00040.png in Resources */,
+				8C6406F11AB2992B00E36A55 /* Word Practice Smaller_00008.png in Resources */,
+				8C6407E71AB29B4B00E36A55 /* Andy Fly-in-Rt_00011.png in Resources */,
+				8C6407501AB2992B00E36A55 /* Word Practice Smaller_00103.png in Resources */,
+				8C64078C1AB2992B00E36A55 /* Word Practice Smaller_00163.png in Resources */,
+				8C64077D1AB2992B00E36A55 /* Word Practice Smaller_00148.png in Resources */,
+				8C6406F01AB2992B00E36A55 /* Word Practice Smaller_00007.png in Resources */,
+				8C6407991AB2992B00E36A55 /* Word Practice Smaller_00176.png in Resources */,
+				8C6407FB1AB29B4B00E36A55 /* Andy Fly-in-Rt_00031.png in Resources */,
+				8C6406FB1AB2992B00E36A55 /* Word Practice Smaller_00018.png in Resources */,
+				8C64070D1AB2992B00E36A55 /* Word Practice Smaller_00036.png in Resources */,
+				8CC5D6B01AB216EA00726302 /* Reading Practice 250x250_00007.png in Resources */,
+				8C6407971AB2992B00E36A55 /* Word Practice Smaller_00174.png in Resources */,
+				8C6407E61AB29B4B00E36A55 /* Andy Fly-in-Rt_00010.png in Resources */,
+				8C6407141AB2992B00E36A55 /* Word Practice Smaller_00043.png in Resources */,
+				8CC5D6A91AB216EA00726302 /* Reading Practice 250x250_00000.png in Resources */,
+				8C6407791AB2992B00E36A55 /* Word Practice Smaller_00144.png in Resources */,
+				8C6407E11AB29B4B00E36A55 /* Andy Fly-in-Rt_00005.png in Resources */,
+				8C6407E41AB29B4B00E36A55 /* Andy Fly-in-Rt_00008.png in Resources */,
+				8C6407031AB2992B00E36A55 /* Word Practice Smaller_00026.png in Resources */,
+				8C64071E1AB2992B00E36A55 /* Word Practice Smaller_00053.png in Resources */,
+				8C6407851AB2992B00E36A55 /* Word Practice Smaller_00156.png in Resources */,
+				8C6407881AB2992B00E36A55 /* Word Practice Smaller_00159.png in Resources */,
+				8C6407521AB2992B00E36A55 /* Word Practice Smaller_00105.png in Resources */,
+				8CC5D6BD1AB216EA00726302 /* Reading Practice 250x250_00020.png in Resources */,
+				8C64074A1AB2992B00E36A55 /* Word Practice Smaller_00097.png in Resources */,
+				8C6407911AB2992B00E36A55 /* Word Practice Smaller_00168.png in Resources */,
+				8C6406F91AB2992B00E36A55 /* Word Practice Smaller_00016.png in Resources */,
+				8C6408151AB29B4B00E36A55 /* Andy Fly-in-Rt_00057.png in Resources */,
+				8C64071C1AB2992B00E36A55 /* Word Practice Smaller_00051.png in Resources */,
+				8C6407871AB2992B00E36A55 /* Word Practice Smaller_00158.png in Resources */,
+				8C6407DE1AB29B4B00E36A55 /* Andy Fly-in-Rt_00002.png in Resources */,
+				8C64071D1AB2992B00E36A55 /* Word Practice Smaller_00052.png in Resources */,
+				8CC5D6BF1AB216EA00726302 /* Reading Practice 250x250_00022.png in Resources */,
+				8CC5D6C31AB216EA00726302 /* Reading Practice 250x250_00026.png in Resources */,
+				8C6406EC1AB2992B00E36A55 /* Word Practice Smaller_00003.png in Resources */,
+				8C6406F71AB2992B00E36A55 /* Word Practice Smaller_00014.png in Resources */,
+				8C64076C1AB2992B00E36A55 /* Word Practice Smaller_00131.png in Resources */,
+				8C6407591AB2992B00E36A55 /* Word Practice Smaller_00112.png in Resources */,
+				8C64072E1AB2992B00E36A55 /* Word Practice Smaller_00069.png in Resources */,
+				8C6408051AB29B4B00E36A55 /* Andy Fly-in-Rt_00041.png in Resources */,
+				8C6407F71AB29B4B00E36A55 /* Andy Fly-in-Rt_00027.png in Resources */,
+				8C6407361AB2992B00E36A55 /* Word Practice Smaller_00077.png in Resources */,
+				8C64071A1AB2992B00E36A55 /* Word Practice Smaller_00049.png in Resources */,
+				8C6407841AB2992B00E36A55 /* Word Practice Smaller_00155.png in Resources */,
+				8C6407861AB2992B00E36A55 /* Word Practice Smaller_00157.png in Resources */,
+				8C6407331AB2992B00E36A55 /* Word Practice Smaller_00074.png in Resources */,
+				8C6407581AB2992B00E36A55 /* Word Practice Smaller_00111.png in Resources */,
+				8C64070E1AB2992B00E36A55 /* Word Practice Smaller_00037.png in Resources */,
+				8C6407E81AB29B4B00E36A55 /* Andy Fly-in-Rt_00012.png in Resources */,
+				8C64073F1AB2992B00E36A55 /* Word Practice Smaller_00086.png in Resources */,
+				8C6407021AB2992B00E36A55 /* Word Practice Smaller_00025.png in Resources */,
+				8C6407891AB2992B00E36A55 /* Word Practice Smaller_00160.png in Resources */,
+				8C6407261AB2992B00E36A55 /* Word Practice Smaller_00061.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +1386,7 @@
 			files = (
 				8CA674F91AAF60E300AF0158 /* ViewController.m in Sources */,
 				8CA674F61AAF60E300AF0158 /* AppDelegate.m in Sources */,
+				8C6406301AB2851600E36A55 /* menuTemplate.m in Sources */,
 				8CA674F31AAF60E300AF0158 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,6 +1580,7 @@
 				8CA675121AAF60E300AF0158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CA675131AAF60E300AF0158 /* Build configuration list for PBXNativeTarget "quizTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +1589,7 @@
 				8CA675151AAF60E300AF0158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

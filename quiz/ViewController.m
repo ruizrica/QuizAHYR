@@ -9,8 +9,9 @@
 #import "ViewController.h"
 
 @interface ViewController () {
-    int *buttonTag;
+    int buttonTag;
 }
+@property (weak, nonatomic) IBOutlet UILabel *lb_message;
 - (IBAction)buttonAction:(UIButton *)sender;
 @end
 
@@ -19,11 +20,17 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+	
+	self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"Lesson-1-Menu-Vector-Chalk-tray.png"]];	
+}
+
+- (BOOL)prefersStatusBarHidden {
+	return YES;
 }
 
 - (IBAction)buttonAction:(UIButton *)sender {
-    buttonTag = (int)sender.tag;
-    
+	buttonTag = (int)sender.tag;
+	[self checkAnswer];
 }
 
 - (void)loadQuestions {
@@ -32,10 +39,15 @@
 
 - (void)checkAnswer {
     
-    if (buttonTag == 1) {
+    if (buttonTag == 4) {
         NSLog(@"Correct!");
+		UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"Andy" message:@"Great Job" delegate:self cancelButtonTitle:@"Dismiss" otherButtonTitles:nil];
+		[alert show];
+		
+		_lb_message.text = @"Billy and Tim ran away from the big dog, run said Billy to Tim";
     } else {
-        NSLog(@"Try Again");
+		UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"Andy" message:@"Try Again" delegate:self cancelButtonTitle:@"Dismiss" otherButtonTitles:nil];
+		[alert show];
     }
 }
 
